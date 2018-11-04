@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyShip.cs" line="138" mnemonic="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97a8d451-51ed-43a3-ae4a-fa858a58cb4a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-490799161">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="8853" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="8853" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TopDownShipControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" selection-start-line="12" selection-end-line="13" />
+              <folding>
+                <marker date="1541242499145" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541242499145" expanded="true" signature="97:1113" ph="{...}" />
+                <marker date="1541242499145" expanded="true" signature="187:1111" ph="{...}" />
+                <marker date="1541242499145" expanded="true" signature="558:619" ph="{...}" />
+                <marker date="1541242499145" expanded="true" signature="644:1108" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Starship.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+              <folding>
+                <marker date="1541335277561" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541335277561" expanded="true" signature="97:943" ph="{...}" />
+                <marker date="1541335277561" expanded="true" signature="222:941" ph="{...}" />
+                <marker date="1541335277561" expanded="true" signature="392:681" ph="{...}" />
+                <marker date="1541335277561" expanded="true" signature="462:580" ph="{...}" />
+                <marker date="1541335277561" expanded="true" signature="647:677" ph="{...}" />
+                <marker date="1541335277561" expanded="true" signature="710:760" ph="{...}" />
+                <marker date="1541335277561" expanded="true" signature="786:938" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Planet.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <marker date="1541243936459" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541243936459" expanded="true" signature="97:584" ph="{...}" />
+                <marker date="1541243936459" expanded="true" signature="180:582" ph="{...}" />
+                <marker date="1541243936459" expanded="true" signature="375:454" ph="{...}" />
+                <marker date="1541243936459" expanded="true" signature="500:579" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetJob.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <marker date="1541244006155" expanded="true" signature="32:267" ph="{...}" />
+                <marker date="1541244006155" expanded="true" signature="64:91" ph="{...}" />
+                <marker date="1541244006155" expanded="true" signature="142:265" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/ScanPanel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <marker date="1541245213621" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541245213621" expanded="true" signature="97:682" ph="{...}" />
+                <marker date="1541245213621" expanded="true" signature="139:680" ph="{...}" />
+                <marker date="1541245213621" expanded="true" signature="279:304" ph="{...}" />
+                <marker date="1541245213621" expanded="true" signature="332:344" ph="{...}" />
+                <marker date="1541245213621" expanded="true" signature="368:471" ph="{...}" />
+                <marker date="1541245213621" expanded="true" signature="416:467" ph="{...}" />
+                <marker date="1541245213621" expanded="true" signature="508:677" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyShip.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="758">
+              <caret line="164" column="116" selection-start-line="164" selection-start-column="116" selection-end-line="164" selection-end-column="116" />
+              <folding>
+                <marker date="1541258266056" expanded="true" signature="6:121" ph="..." />
+                <marker date="1541258266056" expanded="true" signature="140:3777" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="182:3775" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="907:1069" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="918:1065" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="1093:1215" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="1240:1294" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="1324:2086" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="1357:1531" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="1392:1485" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="1626:1910" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="1918:1973" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="2039:2082" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="2117:2383" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="2242:2379" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="2414:2613" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="2652:3113" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="3157:3241" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="3271:3772" ph="{...}" />
+                <marker date="1541258266056" expanded="true" signature="3533:3768" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Health.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="89" selection-start-line="55" selection-start-column="89" selection-end-line="55" selection-end-column="89" />
+              <folding>
+                <marker date="1541334861225" expanded="true" signature="6:40" ph="..." />
+                <marker date="1541334861225" expanded="true" signature="59:1192" ph="{...}" />
+                <marker date="1541334861225" expanded="true" signature="98:1190" ph="{...}" />
+                <marker date="1541334861225" expanded="true" signature="348:531" ph="{...}" />
+                <marker date="1541334861225" expanded="true" signature="399:527" ph="{...}" />
+                <marker date="1541334861225" expanded="true" signature="555:769" ph="{...}" />
+                <marker date="1541334861225" expanded="true" signature="590:765" ph="{...}" />
+                <marker date="1541334861225" expanded="true" signature="803:837" ph="{...}" />
+                <marker date="1541334861225" expanded="true" signature="869:903" ph="{...}" />
+                <marker date="1541334861225" expanded="true" signature="935:1187" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Map.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="895">
+              <caret line="67" column="57" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
+              <folding>
+                <marker date="1541254136146" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541254136146" expanded="true" signature="97:2154" ph="{...}" />
+                <marker date="1541254136146" expanded="true" signature="133:2152" ph="{...}" />
+                <marker date="1541254136146" expanded="true" signature="520:1499" ph="{...}" />
+                <marker date="1541254136146" expanded="true" signature="666:1088" ph="{...}" />
+                <marker date="1541254136146" expanded="true" signature="1185:1495" ph="{...}" />
+                <marker date="1541254136146" expanded="true" signature="1526:2149" ph="{...}" />
+                <marker date="1541254136146" expanded="true" signature="1862:2145" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetJobListItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <marker date="1541245040037" expanded="false" signature="6:91" ph="..." />
+                <marker date="1541245040037" expanded="true" signature="110:351" ph="{...}" />
+                <marker date="1541245040037" expanded="true" signature="160:349" ph="{...}" />
+                <marker date="1541245040037" expanded="true" signature="253:346" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="803">
+              <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
+              <folding>
+                <marker date="1541245140245" expanded="false" signature="6:40" ph="..." />
+                <marker date="1541245140245" expanded="true" signature="59:1061" ph="{...}" />
+                <marker date="1541245140245" expanded="true" signature="117:1059" ph="{...}" />
+                <marker date="1541245140245" expanded="true" signature="333:602" ph="{...}" />
+                <marker date="1541245140245" expanded="true" signature="380:598" ph="{...}" />
+                <marker date="1541245140245" expanded="true" signature="539:593" ph="{...}" />
+                <marker date="1541245140245" expanded="true" signature="626:662" ph="{...}" />
+                <marker date="1541245140245" expanded="true" signature="697:760" ph="{...}" />
+                <marker date="1541245140245" expanded="true" signature="800:832" ph="{...}" />
+                <marker date="1541245140245" expanded="true" signature="860:1056" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetJobListItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetJob.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/ScanPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TopDownShipControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Starship.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Planet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyShip.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Map.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/TopDownShipControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetJob.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetJobListItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/ScanPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/Map.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyShip.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/Starship.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1067" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="ghg2018" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="ghg2018" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="27656">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="27656" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97a8d451-51ed-43a3-ae4a-fa858a58cb4a" name="Default Changelist" comment="" />
+      <created>1541158077875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541158077875</updated>
+      <workItem from="1541158081696" duration="19924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19924000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1934" height="1067" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13713981" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Planet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <marker date="1541243936459" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541243936459" expanded="true" signature="97:584" ph="{...}" />
+            <marker date="1541243936459" expanded="true" signature="180:582" ph="{...}" />
+            <marker date="1541243936459" expanded="true" signature="375:454" ph="{...}" />
+            <marker date="1541243936459" expanded="true" signature="500:579" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetJob.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1541244006155" expanded="true" signature="32:267" ph="{...}" />
+            <marker date="1541244006155" expanded="true" signature="64:91" ph="{...}" />
+            <marker date="1541244006155" expanded="true" signature="142:265" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
+          <folding>
+            <marker date="1541245140245" expanded="false" signature="6:40" ph="..." />
+            <marker date="1541245140245" expanded="true" signature="59:1061" ph="{...}" />
+            <marker date="1541245140245" expanded="true" signature="117:1059" ph="{...}" />
+            <marker date="1541245140245" expanded="true" signature="333:602" ph="{...}" />
+            <marker date="1541245140245" expanded="true" signature="380:598" ph="{...}" />
+            <marker date="1541245140245" expanded="true" signature="539:593" ph="{...}" />
+            <marker date="1541245140245" expanded="true" signature="626:662" ph="{...}" />
+            <marker date="1541245140245" expanded="true" signature="697:760" ph="{...}" />
+            <marker date="1541245140245" expanded="true" signature="800:832" ph="{...}" />
+            <marker date="1541245140245" expanded="true" signature="860:1056" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetJobListItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1541245040037" expanded="false" signature="6:91" ph="..." />
+            <marker date="1541245040037" expanded="true" signature="110:351" ph="{...}" />
+            <marker date="1541245040037" expanded="true" signature="160:349" ph="{...}" />
+            <marker date="1541245040037" expanded="true" signature="253:346" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/ScanPanel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <marker date="1541245213621" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541245213621" expanded="true" signature="97:682" ph="{...}" />
+            <marker date="1541245213621" expanded="true" signature="139:680" ph="{...}" />
+            <marker date="1541245213621" expanded="true" signature="279:304" ph="{...}" />
+            <marker date="1541245213621" expanded="true" signature="332:344" ph="{...}" />
+            <marker date="1541245213621" expanded="true" signature="368:471" ph="{...}" />
+            <marker date="1541245213621" expanded="true" signature="416:467" ph="{...}" />
+            <marker date="1541245213621" expanded="true" signature="508:677" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TopDownShipControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="13" />
+          <folding>
+            <marker date="1541242499145" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541242499145" expanded="true" signature="97:1113" ph="{...}" />
+            <marker date="1541242499145" expanded="true" signature="187:1111" ph="{...}" />
+            <marker date="1541242499145" expanded="true" signature="558:619" ph="{...}" />
+            <marker date="1541242499145" expanded="true" signature="644:1108" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Map.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="67" column="57" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
+          <folding>
+            <marker date="1541254136146" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541254136146" expanded="true" signature="97:2154" ph="{...}" />
+            <marker date="1541254136146" expanded="true" signature="133:2152" ph="{...}" />
+            <marker date="1541254136146" expanded="true" signature="520:1499" ph="{...}" />
+            <marker date="1541254136146" expanded="true" signature="666:1088" ph="{...}" />
+            <marker date="1541254136146" expanded="true" signature="1185:1495" ph="{...}" />
+            <marker date="1541254136146" expanded="true" signature="1526:2149" ph="{...}" />
+            <marker date="1541254136146" expanded="true" signature="1862:2145" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyShip.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="164" column="116" selection-start-line="164" selection-start-column="116" selection-end-line="164" selection-end-column="116" />
+          <folding>
+            <marker date="1541258266056" expanded="true" signature="6:121" ph="..." />
+            <marker date="1541258266056" expanded="true" signature="140:3777" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="182:3775" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="907:1069" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="918:1065" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="1093:1215" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="1240:1294" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="1324:2086" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="1357:1531" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="1392:1485" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="1626:1910" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="1918:1973" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="2039:2082" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="2117:2383" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="2242:2379" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="2414:2613" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="2652:3113" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="3157:3241" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="3271:3772" ph="{...}" />
+            <marker date="1541258266056" expanded="true" signature="3533:3768" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Health.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="89" selection-start-line="55" selection-start-column="89" selection-end-line="55" selection-end-column="89" />
+          <folding>
+            <marker date="1541334861225" expanded="true" signature="6:40" ph="..." />
+            <marker date="1541334861225" expanded="true" signature="59:1192" ph="{...}" />
+            <marker date="1541334861225" expanded="true" signature="98:1190" ph="{...}" />
+            <marker date="1541334861225" expanded="true" signature="348:531" ph="{...}" />
+            <marker date="1541334861225" expanded="true" signature="399:527" ph="{...}" />
+            <marker date="1541334861225" expanded="true" signature="555:769" ph="{...}" />
+            <marker date="1541334861225" expanded="true" signature="590:765" ph="{...}" />
+            <marker date="1541334861225" expanded="true" signature="803:837" ph="{...}" />
+            <marker date="1541334861225" expanded="true" signature="869:903" ph="{...}" />
+            <marker date="1541334861225" expanded="true" signature="935:1187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/Starship.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <marker date="1541335277561" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541335277561" expanded="true" signature="97:943" ph="{...}" />
+            <marker date="1541335277561" expanded="true" signature="222:941" ph="{...}" />
+            <marker date="1541335277561" expanded="true" signature="392:681" ph="{...}" />
+            <marker date="1541335277561" expanded="true" signature="462:580" ph="{...}" />
+            <marker date="1541335277561" expanded="true" signature="647:677" ph="{...}" />
+            <marker date="1541335277561" expanded="true" signature="710:760" ph="{...}" />
+            <marker date="1541335277561" expanded="true" signature="786:938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<spacescapelayers>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <farColor>0 0 0 1</farColor>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <maskEnabled>false</maskEnabled>
+        <maskGain>0.5</maskGain>
+        <maskLacunarity>2</maskLacunarity>
+        <maskNoiseType>fbm</maskNoiseType>
+        <maskOctaves>1</maskOctaves>
+        <maskOffset>1</maskOffset>
+        <maskPower>1</maskPower>
+        <maskScale>1</maskScale>
+        <maskSeed>1</maskSeed>
+        <maskThreshold>0</maskThreshold>
+        <name>SpacescapeLayer0</name>
+        <nearColor>1 1 1 1</nearColor>
+        <numPoints>1000</numPoints>
+        <pointSize>2</pointSize>
+        <seed>0</seed>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>points</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <farColor>0 0 0 1</farColor>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <maskEnabled>false</maskEnabled>
+        <maskGain>0.5</maskGain>
+        <maskLacunarity>2</maskLacunarity>
+        <maskNoiseType>fbm</maskNoiseType>
+        <maskOctaves>1</maskOctaves>
+        <maskOffset>1</maskOffset>
+        <maskPower>1</maskPower>
+        <maskScale>1</maskScale>
+        <maskSeed>1</maskSeed>
+        <maskThreshold>0</maskThreshold>
+        <name>SpacescapeLayer1</name>
+        <nearColor>1 0.890196 0.333333 1</nearColor>
+        <numPoints>500</numPoints>
+        <pointSize>3</pointSize>
+        <seed>2</seed>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>points</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <farColor>0 0 0 1</farColor>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <maskEnabled>false</maskEnabled>
+        <maskGain>0.5</maskGain>
+        <maskLacunarity>2</maskLacunarity>
+        <maskNoiseType>fbm</maskNoiseType>
+        <maskOctaves>1</maskOctaves>
+        <maskOffset>1</maskOffset>
+        <maskPower>1</maskPower>
+        <maskScale>1</maskScale>
+        <maskSeed>1</maskSeed>
+        <maskThreshold>0</maskThreshold>
+        <name>SpacescapeLayer1 copy</name>
+        <nearColor>1 0.615686 0.0745098 1</nearColor>
+        <numPoints>750</numPoints>
+        <pointSize>3</pointSize>
+        <seed>10</seed>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>points</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <farColor>0 0 0 1</farColor>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <maskEnabled>false</maskEnabled>
+        <maskGain>0.5</maskGain>
+        <maskLacunarity>2</maskLacunarity>
+        <maskNoiseType>fbm</maskNoiseType>
+        <maskOctaves>1</maskOctaves>
+        <maskOffset>1</maskOffset>
+        <maskPower>1</maskPower>
+        <maskScale>1</maskScale>
+        <maskSeed>1</maskSeed>
+        <maskThreshold>0</maskThreshold>
+        <name>SpacescapeLayer2</name>
+        <nearColor>0.952941 1 0 1</nearColor>
+        <numPoints>1000</numPoints>
+        <pointSize>2</pointSize>
+        <seed>4</seed>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>points</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <farColor>0 0 0 1</farColor>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <maskEnabled>false</maskEnabled>
+        <maskGain>0.5</maskGain>
+        <maskLacunarity>2</maskLacunarity>
+        <maskNoiseType>fbm</maskNoiseType>
+        <maskOctaves>1</maskOctaves>
+        <maskOffset>1</maskOffset>
+        <maskPower>1</maskPower>
+        <maskScale>1</maskScale>
+        <maskSeed>1</maskSeed>
+        <maskThreshold>0</maskThreshold>
+        <name>SpacescapeLayer2 copy</name>
+        <nearColor>0.952941 1 0 1</nearColor>
+        <numPoints>1000</numPoints>
+        <pointSize>2</pointSize>
+        <seed>6</seed>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>points</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <farColor>0 0 0 1</farColor>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <maskEnabled>false</maskEnabled>
+        <maskGain>0.5</maskGain>
+        <maskLacunarity>2</maskLacunarity>
+        <maskNoiseType>fbm</maskNoiseType>
+        <maskOctaves>1</maskOctaves>
+        <maskOffset>1</maskOffset>
+        <maskPower>1</maskPower>
+        <maskScale>1</maskScale>
+        <maskSeed>1</maskSeed>
+        <maskThreshold>0</maskThreshold>
+        <name>SpacescapeLayer2 copy copy</name>
+        <nearColor>0 0.984314 1 1</nearColor>
+        <numPoints>1000</numPoints>
+        <pointSize>2</pointSize>
+        <seed>8</seed>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>points</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <ditherAmount>0</ditherAmount>
+        <gain>0.3</gain>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <innerColor>0.0196078 0 0.172549 1</innerColor>
+        <lacunarity>6</lacunarity>
+        <name>SpacescapeLayer6</name>
+        <noiseType>ridged</noiseType>
+        <octaves>2</octaves>
+        <offset>1</offset>
+        <outerColor>0 0 0 0.196078</outerColor>
+        <powerAmount>0.1</powerAmount>
+        <previewTextureSize>1024</previewTextureSize>
+        <scale>1</scale>
+        <seed>12</seed>
+        <shelfAmount>0</shelfAmount>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <ditherAmount>0</ditherAmount>
+        <gain>0.3</gain>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <innerColor>0.133333 0 0.168627 1</innerColor>
+        <lacunarity>6</lacunarity>
+        <name>SpacescapeLayer6 copy</name>
+        <noiseType>ridged</noiseType>
+        <octaves>2</octaves>
+        <offset>1</offset>
+        <outerColor>0 0 0 0.196078</outerColor>
+        <powerAmount>0.1</powerAmount>
+        <previewTextureSize>1024</previewTextureSize>
+        <scale>1</scale>
+        <seed>14</seed>
+        <shelfAmount>0</shelfAmount>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+</spacescapelayers>

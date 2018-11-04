@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<spacescapelayers>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <ditherAmount>0</ditherAmount>
+        <gain>0.3</gain>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <innerColor>0.0196078 0 0.172549 1</innerColor>
+        <lacunarity>12</lacunarity>
+        <name>SpacescapeLayer6</name>
+        <noiseType>ridged</noiseType>
+        <octaves>4</octaves>
+        <offset>1</offset>
+        <outerColor>0 0 0 0.196078</outerColor>
+        <powerAmount>0.1</powerAmount>
+        <previewTextureSize>1024</previewTextureSize>
+        <scale>1</scale>
+        <seed>12</seed>
+        <shelfAmount>0</shelfAmount>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <ditherAmount>0</ditherAmount>
+        <gain>0.3</gain>
+        <hdrMultiplier>1</hdrMultiplier>
+        <hdrPower>1</hdrPower>
+        <innerColor>0.133333 0 0.168627 1</innerColor>
+        <lacunarity>12</lacunarity>
+        <name>SpacescapeLayer6 copy</name>
+        <noiseType>ridged</noiseType>
+        <octaves>8</octaves>
+        <offset>1</offset>
+        <outerColor>0 0 0 0.196078</outerColor>
+        <powerAmount>0.1</powerAmount>
+        <previewTextureSize>1024</previewTextureSize>
+        <scale>1</scale>
+        <seed>14</seed>
+        <shelfAmount>0</shelfAmount>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+</spacescapelayers>
