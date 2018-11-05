@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a8d451-51ed-43a3-ae4a-fa858a58cb4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainCar.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainCar.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Materials/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Materials/Materials/TopDownShip Render Texture.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Materials/Materials/TopDownShip Render Texture.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-2-train-alignment.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-2-train-alignment.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainCar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainCar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainEngine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainEngine.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +25,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="11083" />
+          <entry key="cs" value="11453" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="11083" />
+          <entry key="C#" value="11453" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -121,30 +114,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainEngine.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="105">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
-                <marker date="1541422261706" expanded="true" signature="6:78" ph="..." />
-                <marker date="1541422261706" expanded="true" signature="97:722" ph="{...}" />
-                <marker date="1541422261706" expanded="true" signature="141:720" ph="{...}" />
-                <marker date="1541422261706" expanded="true" signature="361:494" ph="{...}" />
-                <marker date="1541422261706" expanded="true" signature="519:717" ph="{...}" />
+                <marker date="1541425968655" expanded="true" signature="6:78" ph="..." />
+                <marker date="1541425968655" expanded="true" signature="97:144" ph="{...}" />
+                <marker date="1541425968655" expanded="true" signature="136:142" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainCar.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <marker date="1541421570281" expanded="true" signature="37:104" ph="{...}" />
-                <marker date="1541421570281" expanded="true" signature="81:102" ph="{...}" />
+                <marker date="1541426716216" expanded="true" signature="37:1382" ph="{...}" />
+                <marker date="1541426716216" expanded="true" signature="81:1380" ph="{...}" />
+                <marker date="1541426716216" expanded="true" signature="455:515" ph="{...}" />
+                <marker date="1541426716216" expanded="true" signature="554:780" ph="{...}" />
+                <marker date="1541426716216" expanded="true" signature="824:1374" ph="{...}" />
+                <marker date="1541426716216" expanded="true" signature="873:973" ph="{...}" />
+                <marker date="1541426716216" expanded="true" signature="990:1107" ph="{...}" />
+                <marker date="1541426716216" expanded="true" signature="1121:1197" ph="/* TODO: Replace wrap around ... */" />
               </folding>
             </state>
           </provider>
@@ -281,9 +278,9 @@
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/Bezier.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/BezierPathEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/BezierPath.cs" />
-        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainCar.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainRail.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainEngine.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainCar.cs" />
       </list>
     </option>
   </component>
@@ -380,12 +377,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541158077875</updated>
-      <workItem from="1541158081696" duration="26807000" />
+      <workItem from="1541158081696" duration="28621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26807000" />
+    <option name="totallyTimeSpent" value="28621000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -645,17 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainCar.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <marker date="1541421570281" expanded="true" signature="37:104" ph="{...}" />
-            <marker date="1541421570281" expanded="true" signature="81:102" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainRail.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
@@ -676,14 +662,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainEngine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
-            <marker date="1541422261706" expanded="true" signature="6:78" ph="..." />
-            <marker date="1541422261706" expanded="true" signature="97:722" ph="{...}" />
-            <marker date="1541422261706" expanded="true" signature="141:720" ph="{...}" />
-            <marker date="1541422261706" expanded="true" signature="361:494" ph="{...}" />
-            <marker date="1541422261706" expanded="true" signature="519:717" ph="{...}" />
+            <marker date="1541425968655" expanded="true" signature="6:78" ph="..." />
+            <marker date="1541425968655" expanded="true" signature="97:144" ph="{...}" />
+            <marker date="1541425968655" expanded="true" signature="136:142" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainCar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1541426716216" expanded="true" signature="37:1382" ph="{...}" />
+            <marker date="1541426716216" expanded="true" signature="81:1380" ph="{...}" />
+            <marker date="1541426716216" expanded="true" signature="455:515" ph="{...}" />
+            <marker date="1541426716216" expanded="true" signature="554:780" ph="{...}" />
+            <marker date="1541426716216" expanded="true" signature="824:1374" ph="{...}" />
+            <marker date="1541426716216" expanded="true" signature="873:973" ph="{...}" />
+            <marker date="1541426716216" expanded="true" signature="990:1107" ph="{...}" />
+            <marker date="1541426716216" expanded="true" signature="1121:1197" ph="/* TODO: Replace wrap around ... */" />
           </folding>
         </state>
       </provider>
