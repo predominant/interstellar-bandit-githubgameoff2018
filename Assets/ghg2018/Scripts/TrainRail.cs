@@ -12,10 +12,19 @@ namespace ghg2018
 		[SerializeField]
 		private GameObject RailPrefab;
 
+		[SerializeField]
+		public TrainRail PreviousTrack;
+		[SerializeField]
+		public TrainRail NextTrack;
+
+		[SerializeField]
+		private float _renderDistance = 20f;
+
 		private GameObject[] _rails = new GameObject[0];
 		
 		private BGCurve _curve;
 		private BGCcMath _bgMath;
+		private BGCcCursor _bgCursor;
 
 		private void Awake()
 		{
@@ -25,36 +34,40 @@ namespace ghg2018
 			if (this._curve == null)
 				this._curve = this.GetComponent<BGCurve>();
 
-			this._curve.Changed += this.RenderRails;
+			if (this._bgCursor == null)
+				this._bgCursor = this.GetComponent<BGCcCursor>();
+
 			this.RenderRails(null, null);
 		}
 		
-		private void Update()
-		{
-		}
-
 		private void RenderRails(object o, BGCurveChangedArgs args)
 		{
-			var splitter = this.GetComponent<BGCcSplitterPolyline>();
-
-			// Delete all existing rails
-			for (var i = 0; i < this._rails.Length; i++)
-				GameObject.Destroy(this._rails[i]);
-			
-			// Create new rails
-			this._rails = new GameObject[splitter.PointsCount];
-			for (var i = 0; i < splitter.PointsCount; i++)
+			var distance = 0f;
+			var rails = new List<GameObject>();
+			while (distance < this._bgMath.GetDistance())
 			{
-				var tangent = splitter.Math.CalcTangentByDistanceRatio((float)i / (float)splitter.PointsCount);
-				this._rails[i] = GameObject.Instantiate(
+				distance += this._renderDistance;
+				rails.Add(GameObject.Instantiate(
 					this.RailPrefab,
-					this.transform.position + splitter.Positions[i],
-					Quaternion.LookRotation(tangent),
-					this.transform);
-				
+					this.PositionByDistance(distance),
+					Quaternion.LookRotation(this.TangentByDistance(distance)),
+					this.transform));
 			}
+			this._rails = rails.ToArray();
 		}
 
+		public Vector3 PositionByDistance(float value)
+		{
+			this._bgCursor.Distance = value;
+			return this._bgCursor.CalculatePosition();
+		}
+
+		public Vector3 TangentByDistance(float value)
+		{
+			this._bgCursor.Distance = value;
+			return this._bgCursor.CalculateTangent();
+		}
+		
 		public Vector3 PositionByRatio(float value)
 		{
 			return this._bgMath.CalcPositionByDistanceRatio(value);

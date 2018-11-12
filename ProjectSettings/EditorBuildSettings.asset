@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/ghg2018/Scenes/menu.unity
+    guid: f15e39122316a634b98bdc8406403bec
+  - enabled: 1
+    path: Assets/ghg2018/Scenes/game-1-planet-hunt.unity
+    guid: 65069723a5c26194b830a95e88fe98ee
+  - enabled: 1
+    path: Assets/ghg2018/Scenes/cutscene-1.unity
+    guid: 6362c5be2211d4542a3217a32e3cac6a
+  - enabled: 1
+    path: Assets/ghg2018/Scenes/game-2-train-alignment.unity
+    guid: af72b549c8d82494480e7896e2b53ab5
+  - enabled: 1
+    path: Assets/ghg2018/Scenes/cutscene-2.unity
+    guid: 16c5834078ce39c47bda2ecbe4fd3919
   m_configObjects: {}

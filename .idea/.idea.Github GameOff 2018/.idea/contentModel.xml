@@ -149,6 +149,7 @@
         </e>
         <e p="ghg2018" t="Include">
           <e p="Scripts" t="Include">
+            <e p="CameraSmoothFollow.cs" t="Include" />
             <e p="EnemyShip.cs" t="Include" />
             <e p="Health.cs" t="Include" />
             <e p="Map.cs" t="Include" />
@@ -157,7 +158,9 @@
             <e p="PlanetJobListItem.cs" t="Include" />
             <e p="ScanPanel.cs" t="Include" />
             <e p="SceneControllerPlanetHunt.cs" t="Include" />
+            <e p="SceneControllerTrainChase.cs" t="Include" />
             <e p="Starship.cs" t="Include" />
+            <e p="ThirdPersonShipControl.cs" t="Include" />
             <e p="TopDownShipControl.cs" t="Include" />
             <e p="TrainCar.cs" t="Include" />
             <e p="TrainEngine.cs" t="Include" />
