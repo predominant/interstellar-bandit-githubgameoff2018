@@ -8,6 +8,11 @@ TextureImporter:
     21300006: Player2d-1_3
     21300008: Player2d-1_4
     21300010: Player2d-1_5
+    21300012: Player2d-1_6
+    21300014: Player2d-1_7
+    21300016: Player2d-1_8
+    21300018: Player2d-1_9
+    21300020: Player2d-1_10
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -126,7 +131,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e71ce04b5b54d941abf2ef40c20c762
+      spriteID: 2ddd97b791da53b489a414c59b64e6d8
       vertices: []
       indices: 
       edges: []
@@ -146,7 +151,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a878ad292556f3b4c9074d0cb0a9af1d
+      spriteID: bb842534f0953ac46b1bec675ee643ff
       vertices: []
       indices: 
       edges: []
@@ -166,7 +171,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 962e270620ba3ef4a9c43a2b12ca8a5c
+      spriteID: c349e2e8c8006f540a6d76d32cd52d14
       vertices: []
       indices: 
       edges: []
@@ -186,7 +191,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42ae522acb00c9244ac14b81791c1d31
+      spriteID: a5c1e19dc23c75842b031885d9c24598
       vertices: []
       indices: 
       edges: []
@@ -206,7 +211,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76e50fe7ebb992e4b8b2939e95c8d1b7
+      spriteID: 339ea28e5052ff848887a0ae25fd7d22
       vertices: []
       indices: 
       edges: []
@@ -226,7 +231,107 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9812e691b974ad43bc7098c43386978
+      spriteID: 9d0e409bfc5373f439c98cdce8a1864f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player2d-1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e1e176e7253c449ad1825b8def05f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player2d-1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490c98c90c7cbc479acc66b0608e159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player2d-1_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5ae8bb65e59bc458e80ea6cd45dbf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player2d-1_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cecfdbe057715a4f8e640ba66ad1ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player2d-1_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d06feb25e53fc46a63facfb1750640
       vertices: []
       indices: 
       edges: []

@@ -21,6 +21,8 @@ TagManager:
   - Train
   - TrainCollider
   - Crate
+  - Enemy2d
+  - Bullet
   - 
   - 
   - 
@@ -34,9 +36,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - PostProcessing
   m_SortingLayers:
   - name: Default
     uniqueID: 0

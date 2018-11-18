@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace ghg2018
@@ -54,6 +55,11 @@ namespace ghg2018
 
 			foreach (var job in this.ScanTarget.Jobs)
 				this.ScanDataPanel.GetComponent<ScanPanel>().AddJob(job);
+		}
+
+		public void ChangeScene(string scene)
+		{
+			SceneManager.LoadScene(scene);
 		}
 	}
 }

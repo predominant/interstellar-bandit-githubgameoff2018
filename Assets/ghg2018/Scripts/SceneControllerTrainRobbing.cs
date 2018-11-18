@@ -127,7 +127,7 @@ namespace ghg2018
 			return Time.time - this._startTime > this._sceneDuration;
 		}
 
-		private void FailScene()
+		public void FailScene()
 		{
 			this._failedPanel.SetActive(true);
 			this._playerController.Controllable = false;

@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ghg2018/Scenes/cutscene-2.unity
     guid: 16c5834078ce39c47bda2ecbe4fd3919
+  - enabled: 1
+    path: Assets/ghg2018/Scenes/game-3-train-robbing.unity
+    guid: 197c2f0d2441f0341b1f06f29fdaa833
+  - enabled: 1
+    path: Assets/ghg2018/Scenes/cutscene-3.unity
+    guid: 5d2ee890076a6934f94356fb198afc6b
   m_configObjects: {}
