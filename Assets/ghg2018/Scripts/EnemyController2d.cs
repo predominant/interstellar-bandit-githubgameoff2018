@@ -39,10 +39,6 @@ namespace ghg2018
 
 		private void Update()
 		{
-			// TODO: Store the facing direction of the enemy
-			// TODO: Switch the X value of the Sprite Renderer based on the facing direction
-			// TODO: Replace Roam LERP with Translate
-
 			if (this._state == EnemyControllerState.Dead)
 				return;
 			
@@ -56,8 +52,7 @@ namespace ghg2018
 				case EnemyControllerState.Patrol:
 					var targetPos = this.transform.position;
 					targetPos.x = this._patrolTargetX;
-					this.transform.position = Vector3.Lerp(this.transform.position, targetPos,
-						Time.deltaTime * this._walkSpeed);
+					this.transform.Translate((targetPos - this.transform.position) * Time.deltaTime * this._walkSpeed);
 					break;
 				case EnemyControllerState.Chasing:
 					// TODO: Implement chasing

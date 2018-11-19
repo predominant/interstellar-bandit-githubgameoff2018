@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a8d451-51ed-43a3-ae4a-fa858a58cb4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +25,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="32333" />
+          <entry key="cs" value="32426" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="32333" />
+          <entry key="C#" value="32426" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,19 +83,18 @@
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="572">
-              <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
-                <marker date="1542629441137" expanded="false" signature="6:78" ph="..." />
-                <marker date="1542629441137" expanded="true" signature="97:2110" ph="{...}" />
-                <marker date="1542629441137" expanded="true" signature="190:2108" ph="{...}" />
-                <marker date="1542629441137" expanded="true" signature="229:268" ph="{...}" />
-                <marker date="1542629441137" expanded="true" signature="655:798" ph="{...}" />
-                <marker date="1542629441137" expanded="true" signature="823:1569" ph="{...}" />
-                <marker date="1542629441137" expanded="true" signature="831:1008" ph="/* TODO: Store the facing direction of the enemy ... */" />
-                <marker date="1542629441137" expanded="true" signature="1215:1565" ph="{...}" />
-                <marker date="1542629441137" expanded="true" signature="1598:1743" ph="{...}" />
-                <marker date="1542629441137" expanded="true" signature="1766:1977" ph="{...}" />
-                <marker date="1542629441137" expanded="true" signature="2012:2105" ph="{...}" />
+                <marker date="1542629798750" expanded="false" signature="6:78" ph="..." />
+                <marker date="1542629798750" expanded="true" signature="97:1933" ph="{...}" />
+                <marker date="1542629798750" expanded="true" signature="190:1931" ph="{...}" />
+                <marker date="1542629798750" expanded="true" signature="229:268" ph="{...}" />
+                <marker date="1542629798750" expanded="true" signature="659:819" ph="{...}" />
+                <marker date="1542629798750" expanded="true" signature="844:1392" ph="{...}" />
+                <marker date="1542629798750" expanded="true" signature="1054:1388" ph="{...}" />
+                <marker date="1542629798750" expanded="true" signature="1421:1566" ph="{...}" />
+                <marker date="1542629798750" expanded="true" signature="1589:1800" ph="{...}" />
+                <marker date="1542629798750" expanded="true" signature="1835:1928" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -139,8 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="440">
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="46" />
               <folding>
                 <marker date="1542629385765" expanded="true" signature="37:1427" ph="{...}" />
                 <marker date="1542629385765" expanded="true" signature="147:1425" ph="{...}" />
@@ -276,6 +272,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>tangent</find>
+      <find>flip</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -447,12 +444,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541158077875</updated>
       <workItem from="1541158081696" duration="78550000" />
-      <workItem from="1542629191754" duration="262000" />
+      <workItem from="1542629191754" duration="608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78812000" />
+    <option name="totallyTimeSpent" value="79158000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -794,25 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <marker date="1542629385765" expanded="true" signature="37:1427" ph="{...}" />
-            <marker date="1542629385765" expanded="true" signature="147:1425" ph="{...}" />
-            <marker date="1542629385765" expanded="true" signature="242:308" ph="{...}" />
-            <marker date="1542629385765" expanded="true" signature="429:515" ph="{...}" />
-            <marker date="1542629385765" expanded="true" signature="566:825" ph="{...}" />
-            <marker date="1542629385765" expanded="true" signature="702:815" ph="{...}" />
-            <marker date="1542629385765" expanded="true" signature="862:965" ph="{...}" />
-            <marker date="1542629385765" expanded="true" signature="1018:1379" ph="{...}" />
-            <marker date="1542629385765" expanded="true" signature="1081:1197" ph="{...}" />
-            <marker date="1542629385765" expanded="true" signature="1253:1369" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -841,22 +819,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <marker date="1542629385765" expanded="true" signature="37:1427" ph="{...}" />
+            <marker date="1542629385765" expanded="true" signature="147:1425" ph="{...}" />
+            <marker date="1542629385765" expanded="true" signature="242:308" ph="{...}" />
+            <marker date="1542629385765" expanded="true" signature="429:515" ph="{...}" />
+            <marker date="1542629385765" expanded="true" signature="566:825" ph="{...}" />
+            <marker date="1542629385765" expanded="true" signature="702:815" ph="{...}" />
+            <marker date="1542629385765" expanded="true" signature="862:965" ph="{...}" />
+            <marker date="1542629385765" expanded="true" signature="1018:1379" ph="{...}" />
+            <marker date="1542629385765" expanded="true" signature="1081:1197" ph="{...}" />
+            <marker date="1542629385765" expanded="true" signature="1253:1369" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
-          <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
-            <marker date="1542629441137" expanded="false" signature="6:78" ph="..." />
-            <marker date="1542629441137" expanded="true" signature="97:2110" ph="{...}" />
-            <marker date="1542629441137" expanded="true" signature="190:2108" ph="{...}" />
-            <marker date="1542629441137" expanded="true" signature="229:268" ph="{...}" />
-            <marker date="1542629441137" expanded="true" signature="655:798" ph="{...}" />
-            <marker date="1542629441137" expanded="true" signature="823:1569" ph="{...}" />
-            <marker date="1542629441137" expanded="true" signature="831:1008" ph="/* TODO: Store the facing direction of the enemy ... */" />
-            <marker date="1542629441137" expanded="true" signature="1215:1565" ph="{...}" />
-            <marker date="1542629441137" expanded="true" signature="1598:1743" ph="{...}" />
-            <marker date="1542629441137" expanded="true" signature="1766:1977" ph="{...}" />
-            <marker date="1542629441137" expanded="true" signature="2012:2105" ph="{...}" />
+            <marker date="1542629798750" expanded="false" signature="6:78" ph="..." />
+            <marker date="1542629798750" expanded="true" signature="97:1933" ph="{...}" />
+            <marker date="1542629798750" expanded="true" signature="190:1931" ph="{...}" />
+            <marker date="1542629798750" expanded="true" signature="229:268" ph="{...}" />
+            <marker date="1542629798750" expanded="true" signature="659:819" ph="{...}" />
+            <marker date="1542629798750" expanded="true" signature="844:1392" ph="{...}" />
+            <marker date="1542629798750" expanded="true" signature="1054:1388" ph="{...}" />
+            <marker date="1542629798750" expanded="true" signature="1421:1566" ph="{...}" />
+            <marker date="1542629798750" expanded="true" signature="1589:1800" ph="{...}" />
+            <marker date="1542629798750" expanded="true" signature="1835:1928" ph="{...}" />
           </folding>
         </state>
       </provider>
