@@ -24,7 +24,8 @@ namespace ghg2018
 			{
 				this._scanTarget = value;
 				this.ScanButton.interactable = value != null;
-				this.LandButton.interactable = value != null;
+				
+				this.LandButton.interactable = value != null && this._scanTarget.Jobs.Length > 0;
 
 				if (value == null)
 				{

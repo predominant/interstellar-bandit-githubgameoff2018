@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a8d451-51ed-43a3-ae4a-fa858a58cb4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Animations/Player2d Idle1.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Animations/Player2d Idle1.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Animations/Player2d Walk1.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Animations/Player2d Walk1.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Animations/Player2d-1_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Animations/Player2d-1_0.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Images/Player2d-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Images/Player2d-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Images/Player2d-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Images/Player2d-1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Images/Player2d-1.pyxel" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Images/Player2d-1.pyxel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Materials/Planet1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Materials/Planet1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Materials/Planet1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Materials/Planet1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Models/Icosphere6.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Models/Icosphere6.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Models/Spaceship1.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Models/Spaceship1.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Models/Spaceship1.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Models/Spaceship1.blend.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Models/Spaceship1.blend1" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Models/Spaceship1.blend1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-1-planet-hunt.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-1-planet-hunt.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-3-train-robbing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-3-train-robbing.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,12 +23,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="31644" />
+          <entry key="cs" value="31668" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="31644" />
+          <entry key="C#" value="31668" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -282,20 +252,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="732">
-              <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+            <state relative-caret-position="550">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <marker date="1542545953443" expanded="false" signature="6:75" ph="..." />
-                <marker date="1542545953443" expanded="true" signature="94:1179" ph="{...}" />
-                <marker date="1542545953443" expanded="true" signature="152:1177" ph="{...}" />
-                <marker date="1542545953443" expanded="true" signature="368:637" ph="{...}" />
-                <marker date="1542545953443" expanded="true" signature="415:633" ph="{...}" />
-                <marker date="1542545953443" expanded="true" signature="574:628" ph="{...}" />
-                <marker date="1542545953443" expanded="true" signature="661:697" ph="{...}" />
-                <marker date="1542545953443" expanded="true" signature="732:795" ph="{...}" />
-                <marker date="1542545953443" expanded="true" signature="835:867" ph="{...}" />
-                <marker date="1542545953443" expanded="true" signature="895:1091" ph="{...}" />
-                <marker date="1542545953443" expanded="true" signature="1132:1174" ph="{...}" />
+                <marker date="1542624651567" expanded="false" signature="6:75" ph="..." />
+                <marker date="1542624651567" expanded="true" signature="94:1227" ph="{...}" />
+                <marker date="1542624651567" expanded="true" signature="152:1225" ph="{...}" />
+                <marker date="1542624651567" expanded="true" signature="368:685" ph="{...}" />
+                <marker date="1542624651567" expanded="true" signature="415:681" ph="{...}" />
+                <marker date="1542624651567" expanded="true" signature="622:676" ph="{...}" />
+                <marker date="1542624651567" expanded="true" signature="709:745" ph="{...}" />
+                <marker date="1542624651567" expanded="true" signature="780:843" ph="{...}" />
+                <marker date="1542624651567" expanded="true" signature="883:915" ph="{...}" />
+                <marker date="1542624651567" expanded="true" signature="943:1139" ph="{...}" />
+                <marker date="1542624651567" expanded="true" signature="1180:1222" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -472,12 +442,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541158077875</updated>
-      <workItem from="1541158081696" duration="75162000" />
+      <workItem from="1541158081696" duration="75799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75162000" />
+    <option name="totallyTimeSpent" value="75799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1079,20 +1049,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="732">
-          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        <state relative-caret-position="550">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <marker date="1542545953443" expanded="false" signature="6:75" ph="..." />
-            <marker date="1542545953443" expanded="true" signature="94:1179" ph="{...}" />
-            <marker date="1542545953443" expanded="true" signature="152:1177" ph="{...}" />
-            <marker date="1542545953443" expanded="true" signature="368:637" ph="{...}" />
-            <marker date="1542545953443" expanded="true" signature="415:633" ph="{...}" />
-            <marker date="1542545953443" expanded="true" signature="574:628" ph="{...}" />
-            <marker date="1542545953443" expanded="true" signature="661:697" ph="{...}" />
-            <marker date="1542545953443" expanded="true" signature="732:795" ph="{...}" />
-            <marker date="1542545953443" expanded="true" signature="835:867" ph="{...}" />
-            <marker date="1542545953443" expanded="true" signature="895:1091" ph="{...}" />
-            <marker date="1542545953443" expanded="true" signature="1132:1174" ph="{...}" />
+            <marker date="1542624651567" expanded="false" signature="6:75" ph="..." />
+            <marker date="1542624651567" expanded="true" signature="94:1227" ph="{...}" />
+            <marker date="1542624651567" expanded="true" signature="152:1225" ph="{...}" />
+            <marker date="1542624651567" expanded="true" signature="368:685" ph="{...}" />
+            <marker date="1542624651567" expanded="true" signature="415:681" ph="{...}" />
+            <marker date="1542624651567" expanded="true" signature="622:676" ph="{...}" />
+            <marker date="1542624651567" expanded="true" signature="709:745" ph="{...}" />
+            <marker date="1542624651567" expanded="true" signature="780:843" ph="{...}" />
+            <marker date="1542624651567" expanded="true" signature="883:915" ph="{...}" />
+            <marker date="1542624651567" expanded="true" signature="943:1139" ph="{...}" />
+            <marker date="1542624651567" expanded="true" signature="1180:1222" ph="{...}" />
           </folding>
         </state>
       </provider>
