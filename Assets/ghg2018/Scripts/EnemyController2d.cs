@@ -28,9 +28,10 @@ namespace ghg2018
 		private float _roamDelay = 5f;
 		[SerializeField]
 		private float _walkSpeed = 1.5f;
-		
-		private void Awake()
+
+		private new void Awake()
 		{
+			base.Awake();
 			this._animator = this.GetComponent<Animator>();
 			this._startX = this.transform.position.x;
 			this._patrolTargetX = this._startX;
@@ -48,6 +49,8 @@ namespace ghg2018
 			if (this.ShouldRoam())
 				this.Roam();
 
+			this.FlipPlayer(this._patrolTargetX > this.transform.position.x);
+			
 			switch (this._state)
 			{
 				case EnemyControllerState.Patrol:

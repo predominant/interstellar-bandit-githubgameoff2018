@@ -6,12 +6,10 @@ using UnityEngine.UI;
 
 namespace ghg2018
 {
-	[RequireComponent(typeof(SpriteRenderer))]
 	public class PlayerController2d : PersonController2d
 	{
 		public bool Controllable = true;
 		
-		private SpriteRenderer _renderer;
 		private Animator _animator;
 
 		public delegate void CargoInRange(CargoContainer c);
@@ -28,8 +26,6 @@ namespace ghg2018
 		private float _lastShot = 0f;
 		[SerializeField]
 		private float _shotDelay = 0.2f;
-
-		private bool _facingRight = true;
 
 		[SerializeField]
 		private float _boundsXMax = 84f;
@@ -51,11 +47,11 @@ namespace ghg2018
 		[SerializeField]
 		private Image _healthBar;
 		
-		private void Awake()
+		protected new void Awake()
 		{
+			base.Awake();
 			this._sceneController = GameObject.FindObjectOfType<SceneControllerTrainRobbing>();
 			this._animator = this.GetComponent<Animator>();
-			this._renderer = this.GetComponent<SpriteRenderer>();
 		}
 		
 		private void Update()
@@ -94,21 +90,6 @@ namespace ghg2018
 			if (shooting)
 			{
 				this.Shoot();
-			}
-		}
-
-		private void FlipPlayer(bool facingRight)
-		{
-			if (facingRight && this._renderer.flipX)
-			{
-				this._renderer.flipX = false;
-				this._facingRight = true;
-			}
-
-			if (!facingRight && !this._renderer.flipX)
-			{
-				this._renderer.flipX = true;
-				this._facingRight = false;
 			}
 		}
 
