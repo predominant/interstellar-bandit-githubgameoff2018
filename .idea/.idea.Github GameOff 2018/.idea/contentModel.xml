@@ -165,8 +165,11 @@
             <e p="Planet.cs" t="Include" />
             <e p="PlanetJob.cs" t="Include" />
             <e p="PlanetJobListItem.cs" t="Include" />
+            <e p="PlanetRotation.cs" t="Include" />
             <e p="PlayerController2d.cs" t="Include" />
             <e p="ScanPanel.cs" t="Include" />
+            <e p="SceneControllerCutscene1.cs" t="Include" />
+            <e p="SceneControllerCutscene2.cs" t="Include" />
             <e p="SceneControllerMenu.cs" t="Include" />
             <e p="SceneControllerPlanetHunt.cs" t="Include" />
             <e p="SceneControllerTrainChase.cs" t="Include" />

@@ -13,7 +13,7 @@ namespace ghg2018
 	
 	public class SceneControllerTrainChase : MonoBehaviour
 	{
-		private string _nextScene = "cutscene-2";
+		private string _nextScene = "cutscene-3";
 		
 		[SerializeField]
 		private float _trainCargoProbability = 0.2f;
