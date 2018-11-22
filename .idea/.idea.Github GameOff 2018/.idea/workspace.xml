@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a8d451-51ed-43a3-ae4a-fa858a58cb4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Text.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Text/Story.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Text/Story.md.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Text/Story.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Text/Story.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +26,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="32426" />
-          <entry key="md" value="713" />
+          <entry key="md" value="758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="32426" />
-          <entry key="PLAIN_TEXT" value="713" />
+          <entry key="PLAIN_TEXT" value="758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -109,8 +106,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Text/Story.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="818">
-              <caret line="197" lean-forward="true" selection-end-line="197" />
+            <state relative-caret-position="1455">
+              <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -438,12 +435,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541158077875</updated>
       <workItem from="1541158081696" duration="78550000" />
-      <workItem from="1542629191754" duration="2868000" />
+      <workItem from="1542629191754" duration="3557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81418000" />
+    <option name="totallyTimeSpent" value="82107000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -853,8 +850,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Text/Story.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="818">
-          <caret line="197" lean-forward="true" selection-end-line="197" />
+        <state relative-caret-position="1455">
+          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
         </state>
       </provider>
     </entry>

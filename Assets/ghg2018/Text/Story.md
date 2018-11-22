@@ -94,7 +94,8 @@ Each line here is triggered at various times based on players activity.
 
 CUTSCENE 3 (Duration 12s)
 
-Ship aligns with train racing along the desert, character drops down and boards the train
+Ship aligns with train racing along the desert, character drops down and boards
+the train
 
 Player appears in carriage, guards begin shooting
 
