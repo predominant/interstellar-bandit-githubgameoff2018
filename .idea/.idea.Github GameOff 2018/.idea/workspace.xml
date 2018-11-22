@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a8d451-51ed-43a3-ae4a-fa858a58cb4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Text.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Text/Story.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ghg2018/Text/Story.md.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,23 +29,26 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="32426" />
+          <entry key="md" value="713" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="32426" />
+          <entry key="PLAIN_TEXT" value="713" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cs" value="48" />
+          <entry key="md" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C#" value="48" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -79,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="352">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
               <folding>
                 <marker date="1542629798750" expanded="false" signature="6:78" ph="..." />
                 <marker date="1542629798750" expanded="true" signature="97:1933" ph="{...}" />
@@ -100,18 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/WarpLensFlare.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Text/Story.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="12" selection-end-line="14" />
-              <folding>
-                <marker date="1542544201088" expanded="true" signature="6:78" ph="..." />
-                <marker date="1542544201088" expanded="true" signature="182:761" ph="{...}" />
-                <marker date="1542544201088" expanded="true" signature="435:496" ph="{...}" />
-                <marker date="1542544201088" expanded="true" signature="520:560" ph="{...}" />
-                <marker date="1542544201088" expanded="true" signature="587:758" ph="{...}" />
-              </folding>
+            <state relative-caret-position="818">
+              <caret line="197" lean-forward="true" selection-end-line="197" />
             </state>
           </provider>
         </entry>
@@ -346,6 +345,7 @@
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Text/Story.md" />
       </list>
     </option>
   </component>
@@ -381,12 +381,6 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="ghg2018" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="ghg2018" type="1045f7f1:UnityExplorerNode" />
-              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
@@ -444,12 +438,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541158077875</updated>
       <workItem from="1541158081696" duration="78550000" />
-      <workItem from="1542629191754" duration="608000" />
+      <workItem from="1542629191754" duration="2868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79158000" />
+    <option name="totallyTimeSpent" value="81418000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,7 +458,7 @@
     <frame x="-7" y="0" width="1934" height="1067" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13874066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13874066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -840,8 +834,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="352">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding>
             <marker date="1542629798750" expanded="false" signature="6:78" ph="..." />
             <marker date="1542629798750" expanded="true" signature="97:1933" ph="{...}" />
@@ -854,6 +848,13 @@
             <marker date="1542629798750" expanded="true" signature="1589:1800" ph="{...}" />
             <marker date="1542629798750" expanded="true" signature="1835:1928" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Text/Story.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="197" lean-forward="true" selection-end-line="197" />
         </state>
       </provider>
     </entry>
