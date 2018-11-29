@@ -353,9 +353,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1934" />
-    <option name="height" value="1067" />
+    <option name="x" value="32767" />
+    <option name="y" value="32767" />
+    <option name="width" value="1300" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -435,12 +436,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541158077875</updated>
       <workItem from="1541158081696" duration="78550000" />
-      <workItem from="1542629191754" duration="3557000" />
+      <workItem from="1542629191754" duration="4156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82107000" />
+    <option name="totallyTimeSpent" value="82706000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,10 +453,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1934" height="1067" extended-state="0" />
+    <frame x="32767" y="32767" width="1300" height="740" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13874066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20967741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
