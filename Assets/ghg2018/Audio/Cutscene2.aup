@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Cutscene2_data" version="1.3.0" audacityversion="2.1.2" sel0="8.0042441011" sel1="8.0042441011" vpos="0" h="0.0000000000" zoom="120.7172079950" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="2-target-acquired" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="1.03546485">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="328216">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e5e.au" len="131560" min="-0.620544" max="0.848785" rms="0.07025"/>
+				</waveblock>
+				<waveblock start="131560">
+					<simpleblockfile filename="e0000e08.au" len="175763" min="-0.401276" max="0.593384" rms="0.071235"/>
+				</waveblock>
+				<waveblock start="307323">
+					<simpleblockfile filename="e0000de0.au" len="20893" min="-0.454453" max="0.650284" rms="0.063277"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="322970__k2tr__spaceship" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="422306">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000afe.au" len="222383" min="-0.386536" max="0.444931" rms="0.104249"/>
+				</waveblock>
+				<waveblock start="222383">
+					<simpleblockfile filename="e0000a3c.au" len="199923" min="-0.356934" max="0.366287" rms="0.096593"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="2.982176327462" val="0.971830964088"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="30350__matt-g__large-spaceship-pass" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="-1.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="127872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e8a.au" len="127872" min="-0.750473" max="0.733429" rms="0.164173"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="1.457952871204" val="1.000000000000"/>
+				<controlpoint t="2.899338096144" val="0.239436626434"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="30350__matt-g__large-spaceship-pass" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="1.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="127872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e8a.au" len="127872" min="-0.750473" max="0.733429" rms="0.164173"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.074554408187" val="0.098591566086"/>
+				<controlpoint t="1.466236694335" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>

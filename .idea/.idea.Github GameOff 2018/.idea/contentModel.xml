@@ -176,6 +176,7 @@
             <e p="SceneControllerTrainRobbing.cs" t="Include" />
             <e p="SideViewTerrainScroller.cs" t="Include" />
             <e p="Starship.cs" t="Include" />
+            <e p="SubtitleController.cs" t="Include" />
             <e p="ThirdPersonShipControl.cs" t="Include" />
             <e p="TopDownShipControl.cs" t="Include" />
             <e p="TrainCar.cs" t="Include" />
