@@ -52,7 +52,8 @@ namespace ghg2018
 				case EnemyControllerState.Patrol:
 					var targetPos = this.transform.position;
 					targetPos.x = this._patrolTargetX;
-					this.transform.Translate((targetPos - this.transform.position) * Time.deltaTime * this._walkSpeed);
+					if ((targetPos - this.transform.position).magnitude > 0.1f)
+						this.transform.Translate((targetPos - this.transform.position).normalized * Time.deltaTime * this._walkSpeed);
 					break;
 				case EnemyControllerState.Chasing:
 					// TODO: Implement chasing

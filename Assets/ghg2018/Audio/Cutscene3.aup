@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Cutscene3_data" version="1.3.0" audacityversion="2.1.2" sel0="9.4381179138" sel1="9.4381179138" vpos="0" h="0.0000000000" zoom="175.0348678193" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="6-return-with-loot" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="332173">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000da3.au" len="262144" min="-0.748199" max="0.803589" rms="0.109547"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00004b0.au" len="70029" min="-0.572693" max="0.627213" rms="0.062018"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="322970__k2tr__spaceship" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="441668">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000bfb.au" len="232035" min="-0.39006" max="0.384079" rms="0.095427"/>
+				</waveblock>
+				<waveblock start="232035">
+					<simpleblockfile filename="e00009f1.au" len="209633" min="-0.359634" max="0.444931" rms="0.097035"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.074554408187" val="0.014084517956"/>
+				<controlpoint t="5.003429171631" val="1.161971807480"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hit_hurt 12" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0"/>
+	<wavetrack name="Hit_hurt 13" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="9.43811791">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="22632">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000034.au" len="22632" min="-1.0" max="0.454193" rms="0.297279"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

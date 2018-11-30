@@ -34,11 +34,11 @@ namespace ghg2018
 						this._cratePickupMessagePanel.SetActive(false);
 						this._exitTrainMessagePanel.SetActive(true);
 						break;
-					case SceneControllerTrainRobbingState.Decouple:
-						this._cratePickupMessagePanel.SetActive(false);
-						this._exitTrainMessagePanel.SetActive(false);
-						// TODO: This would be SUPER cool - Be able to decouple the train cars at will
-						break;
+//					case SceneControllerTrainRobbingState.Decouple:
+//						this._cratePickupMessagePanel.SetActive(false);
+//						this._exitTrainMessagePanel.SetActive(false);
+//						// TODO: This would be SUPER cool - Be able to decouple the train cars at will
+//						break;
 					case SceneControllerTrainRobbingState.Nothing:
 					default:
 						this._cratePickupMessagePanel.SetActive(false);
@@ -69,6 +69,24 @@ namespace ghg2018
 
 		private CargoContainer _targetCargo;
 
+		[SerializeField]
+		private AudioSource _audioSource;
+
+		[SerializeField]
+		private AudioClip _15secondsRemainClip;
+		private bool _played15remaining = false;
+		[SerializeField]
+		private AudioClip _10secondsRemainClip;
+		private bool _played10remaining = false;
+		[SerializeField]
+		private AudioClip _5secondsRemainClip;
+		private bool _played5remaining = false;
+		[SerializeField]
+		private AudioClip _failedSceneClip;
+		private bool _playedFailed = false;
+
+		private bool _exiting = false;
+
 		private int _haulItems = 0;
 		public int HaulItems
 		{
@@ -98,22 +116,28 @@ namespace ghg2018
 			this.UpdateHaulUI();
 			this._playerController.OnCargoInRange += this.ShowCratePickupMessage;
 			this._playerController.OnCargoOutOfRange += this.HideCratePickupMessage;
+			this._playerController.OnExtractionInRange += this.ShowExtractionMessage;
+			this._playerController.OnExtractionOutOfRange += this.HideExtractionMessage;
 		}
 
 		private void OnDestroy()
 		{
 			this._playerController.OnCargoInRange -= this.ShowCratePickupMessage;
 			this._playerController.OnCargoOutOfRange -= this.HideCratePickupMessage;
+			this._playerController.OnExtractionInRange -= this.ShowExtractionMessage;
+			this._playerController.OnExtractionOutOfRange -= this.HideExtractionMessage;
 		}
 
 		private void Update()
 		{
-			if (this.TimeRanOut())
+			if (this.TimeRanOut() && !this._exiting)
 				this.FailScene();
 
 			this.UpdateTimer();
 
 			this.ProcessControls();
+
+			this.VoiceMessages();
 		}
 
 		private void ProcessControls()
@@ -129,6 +153,13 @@ namespace ghg2018
 
 		public void FailScene()
 		{
+			this._played5remaining = true;
+			this._played10remaining = true;
+			this._played15remaining = true;
+			this._audioSource.Pause();
+			this._audioSource.clip = this._failedSceneClip;
+			this._audioSource.Play();
+
 			this._failedPanel.SetActive(true);
 			this._playerController.Controllable = false;
 		}
@@ -173,6 +204,18 @@ namespace ghg2018
 			this._targetCargo = null;
 		}
 
+		private void ShowExtractionMessage()
+		{
+//			this._exitTrainMessagePanel.SetActive(true);
+			this.SceneState = SceneControllerTrainRobbingState.ExitTrain;
+		}
+
+		private void HideExtractionMessage()
+		{
+//			this._exitTrainMessagePanel.SetActive(false);
+			this.SceneState = SceneControllerTrainRobbingState.Nothing;
+		}
+
 		private void UpdateHaulUI()
 		{
 			this._haulText.text = string.Format(
@@ -208,8 +251,34 @@ namespace ghg2018
 
 		private void ExitTrain()
 		{
-			// TODO: Animation?
-			// TODO: End scene, transition to next.
+			this._exiting = true;
+			SceneManager.LoadScene("cutscene-4");
+		}
+
+		private void VoiceMessages()
+		{
+			var timeRemaining = this._sceneDuration - (Time.time - this._startTime);
+
+			if (timeRemaining <= 19f && !this._played15remaining)
+			{
+				this._played15remaining = true;
+				this._audioSource.clip = this._15secondsRemainClip;
+				this._audioSource.Play();
+			}
+
+			if (timeRemaining <= 14f && !this._played10remaining)
+			{
+				this._played10remaining = true;
+				this._audioSource.clip = this._10secondsRemainClip;
+				this._audioSource.Play();
+			}
+
+			if (timeRemaining <= 5.75f && !this._played5remaining)
+			{
+				this._played5remaining = true;
+				this._audioSource.clip = _5secondsRemainClip;
+				this._audioSource.Play();
+			}
 		}
 	}
 }

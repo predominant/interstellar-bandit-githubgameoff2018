@@ -32,10 +32,10 @@ namespace ghg2018
 				{
 					this.ShowSubtitle(subtitleLine);
 				}
-				else
-				{
-					this.HideSubtitle();
-				}
+//				else
+//				{
+//					this.HideSubtitle();
+//				}
 			}
 		}
 

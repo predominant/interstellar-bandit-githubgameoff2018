@@ -6,11 +6,283 @@
   <component name="ChangeListManager">
     <list default="true" id="97a8d451-51ed-43a3-ae4a-fa858a58cb4a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000082.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000082.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000096.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000096.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00000ef.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00000ef.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00000f9.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00000f9.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000014d.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000014d.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001be.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001be.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001c9.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001c9.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001d0.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001d0.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000026e.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000026e.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000341.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000341.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000376.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000376.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000378.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000378.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00003a8.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00003a8.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00003ac.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00003ac.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000040c.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000040c.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000427.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000427.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000043c.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000043c.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000446.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000446.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005c0.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005c0.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005c1.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005c1.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005d1.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005d1.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005f8.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005f8.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000643.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000643.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000684.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000684.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000693.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000693.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00006f7.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00006f7.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000073d.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000073d.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00007ab.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00007ab.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000803.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000803.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00008de.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00008de.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000918.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000918.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000092b.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000092b.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000095d.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000095d.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000098a.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000098a.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00009de.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00009de.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a5c.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a5c.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a87.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a87.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a8b.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a8b.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000aa6.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000aa6.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ad2.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ad2.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ae9.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ae9.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b3b.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b3b.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b49.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b49.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b88.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b88.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000be3.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000be3.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000c77.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000c77.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ca6.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ca6.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000cd0.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000cd0.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d0c.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d0c.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d92.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d92.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d9c.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d9c.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000de9.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000de9.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000e92.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000e92.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000eca.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000eca.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ee4.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ee4.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f2e.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f2e.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f56.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f56.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f69.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f69.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f74.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f74.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000fc6.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000fc6.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000005e.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000005e.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000069.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000069.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000084.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000084.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00000fb.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00000fb.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001c0.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001c0.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001d3.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001d3.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001ee.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001ee.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000200.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000200.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000020a.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000020a.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000244.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000244.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000292.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000292.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000029f.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000029f.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00002a8.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00002a8.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00002c4.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00002c4.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003aa.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003aa.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003cf.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003cf.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003d9.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003d9.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003e8.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003e8.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000404.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000404.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000041e.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000041e.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000452.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000452.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000046d.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000046d.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000474.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000474.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000048d.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000048d.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000529.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000529.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000530.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000530.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000573.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000573.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00005af.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00005af.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00005d6.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00005d6.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000060f.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000060f.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000632.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000632.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00006bd.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00006bd.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00006cf.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00006cf.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000762.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000762.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007a0.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007a0.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007b9.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007b9.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007db.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007db.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000822.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000822.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000898.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000898.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000899.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000899.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000089a.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000089a.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000089f.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000089f.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00008af.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00008af.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000091e.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000091e.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000931.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000931.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000094c.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000094c.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000977.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000977.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009b4.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009b4.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009c2.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009c2.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009f0.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009f0.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000a36.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000a36.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000a89.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000a89.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000add.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000add.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ae5.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ae5.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000b0a.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000b0a.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c1d.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c1d.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c38.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c38.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c90.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c90.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ca2.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ca2.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ce3.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ce3.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d04.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d04.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d14.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d14.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d67.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d67.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d6e.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d6e.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d80.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d80.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d9a.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d9a.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000db8.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000db8.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000dbc.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000dbc.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e17.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e17.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e2e.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e2e.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e54.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e54.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e7c.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e7c.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000eea.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000eea.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000fa5.au" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000fa5.au.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-3-train-robbing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-3-train-robbing.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SubtitleController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SubtitleController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,26 +302,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="33784" />
+          <entry key="cs" value="35142" />
           <entry key="md" value="758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="33784" />
+          <entry key="C#" value="35142" />
           <entry key="PLAIN_TEXT" value="758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="49" />
+          <entry key="cs" value="52" />
           <entry key="md" value="2" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="49" />
+          <entry key="C#" value="52" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -60,27 +332,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="31" />
+            <state relative-caret-position="1830">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
               <folding>
-                <marker date="1542629376558" expanded="false" signature="6:135" ph="..." />
-                <marker date="1542629376558" expanded="true" signature="210:3868" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="1166:1329" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="1356:2233" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="1596:2079" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="1781:1900" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="1955:2074" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="2201:2229" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="2282:2513" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="2379:2509" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="2555:2662" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="2700:2761" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="2788:2994" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="2867:2969" ph="/* TODO: Can't shoot while searching cargo? ... */" />
-                <marker date="1542629376558" expanded="true" signature="3020:3476" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="3511:3567" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="3600:3743" ph="{...}" />
-                <marker date="1542629376558" expanded="true" signature="3778:3865" ph="{...}" />
+                <marker date="1543555025263" expanded="false" signature="6:135" ph="..." />
+                <marker date="1543555025263" expanded="true" signature="154:4387" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="210:4385" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="1434:1597" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="1624:2501" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="1864:2347" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="2049:2168" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="2223:2342" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="2469:2497" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="2550:2890" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="2647:2777" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="2844:2886" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="2932:3141" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="3179:3240" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="3267:3473" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="3346:3448" ph="/* TODO: Can't shoot while searching cargo? ... */" />
+                <marker date="1543555025263" expanded="true" signature="3499:3993" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="4028:4084" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="4117:4260" ph="{...}" />
+                <marker date="1543555025263" expanded="true" signature="4295:4382" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -89,46 +363,75 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            <state relative-caret-position="473">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
               <folding>
-                <marker date="1542629798750" expanded="false" signature="6:78" ph="..." />
-                <marker date="1542629798750" expanded="true" signature="190:1931" ph="{...}" />
-                <marker date="1542629798750" expanded="true" signature="229:268" ph="{...}" />
-                <marker date="1542629798750" expanded="true" signature="659:819" ph="{...}" />
-                <marker date="1542629798750" expanded="true" signature="844:1392" ph="{...}" />
-                <marker date="1542629798750" expanded="true" signature="1054:1388" ph="{...}" />
-                <marker date="1542629798750" expanded="true" signature="1421:1566" ph="{...}" />
-                <marker date="1542629798750" expanded="true" signature="1589:1800" ph="{...}" />
-                <marker date="1542629798750" expanded="true" signature="1835:1928" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerMenu.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-              <folding>
-                <marker date="1543469589727" expanded="false" signature="6:113" ph="..." />
-                <marker date="1543469589727" expanded="true" signature="184:827" ph="{...}" />
-                <marker date="1543469589727" expanded="true" signature="428:478" ph="{...}" />
-                <marker date="1543469589727" expanded="true" signature="519:561" ph="{...}" />
-                <marker date="1543469589727" expanded="true" signature="585:616" ph="{...}" />
-                <marker date="1543469589727" expanded="true" signature="649:712" ph="{...}" />
-                <marker date="1543469589727" expanded="true" signature="741:824" ph="{...}" />
+                <marker date="1543550963072" expanded="false" signature="6:78" ph="..." />
+                <marker date="1543550963072" expanded="true" signature="97:2010" ph="{...}" />
+                <marker date="1543550963072" expanded="true" signature="190:2008" ph="{...}" />
+                <marker date="1543550963072" expanded="true" signature="229:268" ph="{...}" />
+                <marker date="1543550963072" expanded="true" signature="659:819" ph="{...}" />
+                <marker date="1543550963072" expanded="true" signature="844:1469" ph="{...}" />
+                <marker date="1543550963072" expanded="true" signature="1054:1465" ph="{...}" />
+                <marker date="1543550963072" expanded="true" signature="1498:1643" ph="{...}" />
+                <marker date="1543550963072" expanded="true" signature="1666:1877" ph="{...}" />
+                <marker date="1543550963072" expanded="true" signature="1912:2005" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="251" column="32" lean-forward="true" selection-start-line="251" selection-start-column="32" selection-end-line="251" selection-end-column="32" />
+              <folding>
+                <marker date="1543557860833" expanded="false" signature="6:80" ph="..." />
+                <marker date="1543557860833" expanded="true" signature="99:6979" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="159:6977" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="227:291" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="446:1378" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="493:1374" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="558:1369" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="912:1178" ph="/* case SceneControllerTrainRobbingState.Decouple: ... */" />
+                <marker date="1543557860833" expanded="true" signature="2430:2552" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="2484:2548" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="2606:2728" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="2660:2724" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="2752:3123" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="3151:3465" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="3490:3642" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="3676:3742" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="3771:3840" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="3867:4176" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="4199:4307" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="4329:4407" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="4437:4640" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="4671:4811" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="4868:4970" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="5011:5099" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="5139:5262" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="5302:5424" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="5455:5599" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="5624:6192" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="5718:6188" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="5846:5988" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="6220:6294" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="6326:6974" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="6464:6596" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="6654:6786" ph="{...}" />
+                <marker date="1543557860833" expanded="true" signature="6845:6970" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Text/Story.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="58" />
+            <state relative-caret-position="555">
+              <caret line="130" column="67" selection-start-line="130" selection-start-column="10" selection-end-line="130" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -136,42 +439,37 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SubtitleController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="398">
+              <caret line="38" selection-start-line="34" selection-end-line="38" />
               <folding>
-                <marker date="1543477063242" expanded="true" signature="6:45" ph="..." />
-                <marker date="1543477063242" expanded="true" signature="64:1337" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="109:206" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="257:1335" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="454:716" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="503:712" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="610:660" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="669:707" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="772:912" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="943:1010" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="1066:1332" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="1151:1313" ph="{...}" />
-                <marker date="1543477063242" expanded="true" signature="1198:1248" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="6:45" ph="..." />
+                <marker date="1543491971809" expanded="true" signature="64:1345" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="109:206" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="257:1343" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="454:724" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="503:720" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="610:660" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="661:715" ph="/* else ... */" />
+                <marker date="1543491971809" expanded="true" signature="780:920" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="951:1018" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="1074:1340" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="1159:1321" ph="{...}" />
+                <marker date="1543491971809" expanded="true" signature="1206:1256" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCredits.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="46" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="46" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <marker date="1542629385765" expanded="true" signature="147:1425" ph="{...}" />
-                <marker date="1542629385765" expanded="true" signature="242:308" ph="{...}" />
-                <marker date="1542629385765" expanded="true" signature="429:515" ph="{...}" />
-                <marker date="1542629385765" expanded="true" signature="566:825" ph="{...}" />
-                <marker date="1542629385765" expanded="true" signature="702:815" ph="{...}" />
-                <marker date="1542629385765" expanded="true" signature="862:965" ph="{...}" />
-                <marker date="1542629385765" expanded="true" signature="1018:1379" ph="{...}" />
-                <marker date="1542629385765" expanded="true" signature="1081:1197" ph="{...}" />
-                <marker date="1542629385765" expanded="true" signature="1253:1369" ph="{...}" />
+                <marker date="1543542480652" expanded="true" signature="6:113" ph="..." />
+                <marker date="1543542480652" expanded="true" signature="132:277" ph="{...}" />
+                <marker date="1543542480652" expanded="true" signature="187:275" ph="{...}" />
+                <marker date="1543542480652" expanded="true" signature="230:272" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -201,10 +499,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCutscene1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="285">
               <caret line="23" column="48" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="48" />
               <folding>
-                <marker date="1542627660095" expanded="true" signature="6:132" ph="..." />
+                <marker date="1542627660095" expanded="false" signature="6:132" ph="..." />
+                <marker date="1542627660095" expanded="true" signature="151:641" ph="{...}" />
                 <marker date="1542627660095" expanded="true" signature="208:639" ph="{...}" />
                 <marker date="1542627660095" expanded="true" signature="398:552" ph="{...}" />
                 <marker date="1542627660095" expanded="true" signature="467:548" ph="{...}" />
@@ -271,6 +570,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetRotation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/CameraSmoothFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCredits.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/TrainRail.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SideViewTerrainScroller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs" root0="FORCE_HIGHLIGHTING" />
@@ -322,18 +622,19 @@
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SideViewTerrainScroller.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/CargoContainer.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/GuardSpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/WarpLensFlare.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetRotation.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCutscene1.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainChase.cs" />
-        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs" />
-        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Text/Story.md" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SubtitleController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCredits.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" />
       </list>
     </option>
   </component>
@@ -439,12 +740,12 @@
       <updated>1541158077875</updated>
       <workItem from="1541158081696" duration="78550000" />
       <workItem from="1542629191754" duration="6362000" />
-      <workItem from="1543475104161" duration="2586000" />
+      <workItem from="1543475104161" duration="15108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87498000" />
+    <option name="totallyTimeSpent" value="100020000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,58 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="132" column="55" selection-start-line="132" selection-start-column="50" selection-end-line="132" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="31" />
-          <folding>
-            <marker date="1542629376558" expanded="false" signature="6:135" ph="..." />
-            <marker date="1542629376558" expanded="true" signature="210:3868" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="1166:1329" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="1356:2233" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="1596:2079" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="1781:1900" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="1955:2074" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="2201:2229" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="2282:2513" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="2379:2509" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="2555:2662" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="2700:2761" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="2788:2994" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="2867:2969" ph="/* TODO: Can't shoot while searching cargo? ... */" />
-            <marker date="1542629376558" expanded="true" signature="3020:3476" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="3511:3567" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="3600:3743" ph="{...}" />
-            <marker date="1542629376558" expanded="true" signature="3778:3865" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
-          <folding>
-            <marker date="1542629798750" expanded="false" signature="6:78" ph="..." />
-            <marker date="1542629798750" expanded="true" signature="190:1931" ph="{...}" />
-            <marker date="1542629798750" expanded="true" signature="229:268" ph="{...}" />
-            <marker date="1542629798750" expanded="true" signature="659:819" ph="{...}" />
-            <marker date="1542629798750" expanded="true" signature="844:1392" ph="{...}" />
-            <marker date="1542629798750" expanded="true" signature="1054:1388" ph="{...}" />
-            <marker date="1542629798750" expanded="true" signature="1421:1566" ph="{...}" />
-            <marker date="1542629798750" expanded="true" signature="1589:1800" ph="{...}" />
-            <marker date="1542629798750" expanded="true" signature="1835:1928" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerMenu.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -766,20 +1015,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCutscene1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="48" />
-          <folding>
-            <marker date="1542627660095" expanded="true" signature="6:132" ph="..." />
-            <marker date="1542627660095" expanded="true" signature="208:639" ph="{...}" />
-            <marker date="1542627660095" expanded="true" signature="398:552" ph="{...}" />
-            <marker date="1542627660095" expanded="true" signature="467:548" ph="{...}" />
-            <marker date="1542627660095" expanded="true" signature="594:636" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainChase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -816,30 +1051,150 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SubtitleController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="398">
+          <caret line="38" selection-start-line="34" selection-end-line="38" />
           <folding>
-            <marker date="1543477063242" expanded="true" signature="6:45" ph="..." />
-            <marker date="1543477063242" expanded="true" signature="64:1337" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="109:206" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="257:1335" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="454:716" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="503:712" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="610:660" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="669:707" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="772:912" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="943:1010" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="1066:1332" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="1151:1313" ph="{...}" />
-            <marker date="1543477063242" expanded="true" signature="1198:1248" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="6:45" ph="..." />
+            <marker date="1543491971809" expanded="true" signature="64:1345" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="109:206" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="257:1343" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="454:724" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="503:720" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="610:660" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="661:715" ph="/* else ... */" />
+            <marker date="1543491971809" expanded="true" signature="780:920" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="951:1018" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="1074:1340" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="1159:1321" ph="{...}" />
+            <marker date="1543491971809" expanded="true" signature="1206:1256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCredits.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1543542480652" expanded="true" signature="6:113" ph="..." />
+            <marker date="1543542480652" expanded="true" signature="132:277" ph="{...}" />
+            <marker date="1543542480652" expanded="true" signature="187:275" ph="{...}" />
+            <marker date="1543542480652" expanded="true" signature="230:272" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <marker date="1543550963072" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543550963072" expanded="true" signature="97:2010" ph="{...}" />
+            <marker date="1543550963072" expanded="true" signature="190:2008" ph="{...}" />
+            <marker date="1543550963072" expanded="true" signature="229:268" ph="{...}" />
+            <marker date="1543550963072" expanded="true" signature="659:819" ph="{...}" />
+            <marker date="1543550963072" expanded="true" signature="844:1469" ph="{...}" />
+            <marker date="1543550963072" expanded="true" signature="1054:1465" ph="{...}" />
+            <marker date="1543550963072" expanded="true" signature="1498:1643" ph="{...}" />
+            <marker date="1543550963072" expanded="true" signature="1666:1877" ph="{...}" />
+            <marker date="1543550963072" expanded="true" signature="1912:2005" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Text/Story.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="58" />
+        <state relative-caret-position="555">
+          <caret line="130" column="67" selection-start-line="130" selection-start-column="10" selection-end-line="130" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCutscene1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="48" />
+          <folding>
+            <marker date="1542627660095" expanded="false" signature="6:132" ph="..." />
+            <marker date="1542627660095" expanded="true" signature="151:641" ph="{...}" />
+            <marker date="1542627660095" expanded="true" signature="208:639" ph="{...}" />
+            <marker date="1542627660095" expanded="true" signature="398:552" ph="{...}" />
+            <marker date="1542627660095" expanded="true" signature="467:548" ph="{...}" />
+            <marker date="1542627660095" expanded="true" signature="594:636" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <marker date="1543555025263" expanded="false" signature="6:135" ph="..." />
+            <marker date="1543555025263" expanded="true" signature="154:4387" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="210:4385" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="1434:1597" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="1624:2501" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="1864:2347" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="2049:2168" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="2223:2342" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="2469:2497" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="2550:2890" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="2647:2777" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="2844:2886" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="2932:3141" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="3179:3240" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="3267:3473" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="3346:3448" ph="/* TODO: Can't shoot while searching cargo? ... */" />
+            <marker date="1543555025263" expanded="true" signature="3499:3993" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="4028:4084" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="4117:4260" ph="{...}" />
+            <marker date="1543555025263" expanded="true" signature="4295:4382" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="251" column="32" lean-forward="true" selection-start-line="251" selection-start-column="32" selection-end-line="251" selection-end-column="32" />
+          <folding>
+            <marker date="1543557860833" expanded="false" signature="6:80" ph="..." />
+            <marker date="1543557860833" expanded="true" signature="99:6979" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="159:6977" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="227:291" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="446:1378" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="493:1374" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="558:1369" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="912:1178" ph="/* case SceneControllerTrainRobbingState.Decouple: ... */" />
+            <marker date="1543557860833" expanded="true" signature="2430:2552" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="2484:2548" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="2606:2728" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="2660:2724" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="2752:3123" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="3151:3465" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="3490:3642" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="3676:3742" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="3771:3840" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="3867:4176" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="4199:4307" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="4329:4407" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="4437:4640" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="4671:4811" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="4868:4970" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="5011:5099" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="5139:5262" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="5302:5424" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="5455:5599" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="5624:6192" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="5718:6188" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="5846:5988" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="6220:6294" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="6326:6974" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="6464:6596" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="6654:6786" ph="{...}" />
+            <marker date="1543557860833" expanded="true" signature="6845:6970" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

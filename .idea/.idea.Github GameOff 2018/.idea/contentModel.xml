@@ -168,6 +168,7 @@
             <e p="PlanetRotation.cs" t="Include" />
             <e p="PlayerController2d.cs" t="Include" />
             <e p="ScanPanel.cs" t="Include" />
+            <e p="SceneControllerCredits.cs" t="Include" />
             <e p="SceneControllerCutscene1.cs" t="Include" />
             <e p="SceneControllerCutscene2.cs" t="Include" />
             <e p="SceneControllerMenu.cs" t="Include" />

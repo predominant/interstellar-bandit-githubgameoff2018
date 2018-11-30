@@ -18,6 +18,12 @@ namespace ghg2018
 		public delegate void CargoOutOfRange();
 		public event CargoOutOfRange OnCargoOutOfRange;
 
+		public delegate void ExtractionInRange();
+		public event ExtractionInRange OnExtractionInRange;
+
+		public delegate void ExtractionOutOfRange();
+		public event ExtractionOutOfRange OnExtractionOutOfRange;
+
 		private SceneControllerTrainRobbing _sceneController;
 		
 		[SerializeField]
@@ -43,6 +49,9 @@ namespace ghg2018
 		private Transform _bulletSpawnPositionRight;
 		[SerializeField]
 		private Transform _bulletSpawnPositionLeft;
+
+		[SerializeField]
+		private AudioSource _shootAudioSource;
 
 		[SerializeField]
 		private Image _healthBar;
@@ -102,12 +111,20 @@ namespace ghg2018
 				if (container.CanLoot())
 					this.OnCargoInRange(container);
 			}
+
+			if (c.gameObject.layer == LayerMask.NameToLayer("Extraction"))
+			{
+				this.OnExtractionInRange();
+			}
 		}
 
 		private void OnTriggerExit(Collider c)
 		{
 			if (this.IsCrate(c.gameObject) && this.OnCargoOutOfRange != null)
 				this.OnCargoOutOfRange();
+
+			if (c.gameObject.layer == LayerMask.NameToLayer("Extraction"))
+				this.OnExtractionOutOfRange();
 		}
 
 		private bool IsCrate(GameObject g)
@@ -131,6 +148,8 @@ namespace ghg2018
 			if (!this.CanShoot())
 				return;
 
+			this._shootAudioSource.Play();
+			
 			this._lastShot = Time.time;
 			var pos = (this._facingRight ? this._bulletSpawnPositionRight : this._bulletSpawnPositionLeft).position;
 
