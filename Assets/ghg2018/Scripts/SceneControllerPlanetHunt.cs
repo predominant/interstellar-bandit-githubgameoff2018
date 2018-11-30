@@ -15,8 +15,11 @@ namespace ghg2018
 		[SerializeField]
 		private GameObject ScanDataPanel;
 
-		private Planet _scanTarget;
+		[SerializeField]
+		private GameObject _failedPanel;
 
+		private Planet _scanTarget;
+		
 		private Planet ScanTarget
 		{
 			get { return this._scanTarget; }
@@ -44,6 +47,16 @@ namespace ghg2018
 			Planet.OnScannerRangeEntered += this.SetScanTarget;
 		}
 
+		private void OnDestroy()
+		{
+			this.UnregisterHandlers();
+		}
+
+		private void UnregisterHandlers()
+		{
+			Planet.OnScannerRangeEntered -= this.SetScanTarget;
+		}
+
 		private void SetScanTarget(Planet p)
 		{
 			this.ScanTarget = p;
@@ -56,11 +69,29 @@ namespace ghg2018
 
 			foreach (var job in this.ScanTarget.Jobs)
 				this.ScanDataPanel.GetComponent<ScanPanel>().AddJob(job);
+
+			if (this.ScanTarget.Jobs == null || this.ScanTarget.Jobs.Length == 0)
+				this.ScanDataPanel.GetComponent<ScanPanel>().NoJobs();
 		}
 
 		public void ChangeScene(string scene)
 		{
 			SceneManager.LoadScene(scene);
+		}
+
+		public void Fail()
+		{
+			this._failedPanel.SetActive(true);
+		}
+
+		public void Retry()
+		{
+			this.ChangeScene(SceneManager.GetActiveScene().name);
+		}
+
+		public void Quit()
+		{
+			this.ChangeScene("menu");
 		}
 	}
 }

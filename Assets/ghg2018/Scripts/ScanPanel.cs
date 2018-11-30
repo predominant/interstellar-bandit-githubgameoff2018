@@ -38,5 +38,13 @@ namespace ghg2018
 				false);
 			jobObject.GetComponent<PlanetJobListItem>().SetJob(job);
 		}
+
+		public void NoJobs()
+		{
+			this.AddJob(new PlanetJob
+			{
+				Name = "NO JOBS AVAILABLE",
+			});
+		}
 	}
 }

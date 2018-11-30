@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/ghg2018/Scenes/menu.unity
     guid: f15e39122316a634b98bdc8406403bec
   - enabled: 1
+    path: Assets/ghg2018/Scenes/introduction.unity
+    guid: 9490acec935be724e99a07d7d765864c
+  - enabled: 1
     path: Assets/ghg2018/Scenes/cutscene-1.unity
     guid: 6362c5be2211d4542a3217a32e3cac6a
   - enabled: 1

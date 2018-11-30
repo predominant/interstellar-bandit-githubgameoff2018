@@ -24,6 +24,9 @@ namespace ghg2018
 		[SerializeField]
 		private TextMeshProUGUI _text;
 
+		[SerializeField]
+		private int _lineLength = 40;
+
 		private void Update()
 		{
 			foreach (var subtitleLine in this._lines)
@@ -41,13 +44,15 @@ namespace ghg2018
 
 		private void ShowSubtitle(SubtitleLine subtitleLine)
 		{
-			this._characterText.text = string.Format("{0}:", subtitleLine.Character);
-			this._text.text = this.Wordwrap(subtitleLine.Text);
+			if (this._characterText != null)
+				this._characterText.text = string.Format("{0}:", subtitleLine.Character);
+			this._text.text = this.Wordwrap(subtitleLine.Text, this._lineLength);
 		}
 
 		private void HideSubtitle()
 		{
-			this._characterText.text = "";
+			if (this._characterText != null)
+				this._characterText.text = "";
 			this._text.text = "";
 		}
 

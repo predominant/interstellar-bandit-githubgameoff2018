@@ -15,6 +15,9 @@ namespace ghg2018
 		private GameObject ShipModelObject;
 
 		private Health _health;
+
+		[SerializeField]
+		private SceneControllerPlanetHunt _sceneController;
 		
 		private void Awake()
 		{
@@ -49,6 +52,9 @@ namespace ghg2018
 			this.ShipModelObject.SetActive(false);
 
 			this.GetComponent<TopDownShipControl>().enabled = false;
+			Debug.Log("EXPLODE HERE!");
+
+			this._sceneController.Fail();
 		}
 	}
 }
