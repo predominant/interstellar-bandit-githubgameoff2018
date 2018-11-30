@@ -5,284 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a8d451-51ed-43a3-ae4a-fa858a58cb4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Github GameOff 2018/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000082.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000082.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000096.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000096.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00000ef.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00000ef.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00000f9.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00000f9.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000014d.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000014d.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001be.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001be.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001c9.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001c9.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001d0.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00001d0.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000026e.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000026e.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000341.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000341.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000376.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000376.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000378.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000378.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00003a8.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00003a8.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00003ac.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00003ac.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000040c.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000040c.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000427.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000427.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000043c.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000043c.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000446.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000446.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005c0.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005c0.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005c1.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005c1.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005d1.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005d1.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005f8.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00005f8.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000643.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000643.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000684.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000684.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000693.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000693.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00006f7.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00006f7.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000073d.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000073d.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00007ab.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00007ab.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000803.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000803.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00008de.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00008de.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000918.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000918.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000092b.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000092b.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000095d.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000095d.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000098a.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e000098a.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00009de.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e00009de.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a5c.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a5c.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a87.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a87.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a8b.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000a8b.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000aa6.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000aa6.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ad2.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ad2.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ae9.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ae9.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b3b.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b3b.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b49.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b49.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b88.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000b88.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000be3.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000be3.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000c77.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000c77.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ca6.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ca6.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000cd0.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000cd0.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d0c.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d0c.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d92.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d92.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d9c.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000d9c.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000de9.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000de9.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000e92.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000e92.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000eca.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000eca.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ee4.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000ee4.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f2e.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f2e.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f56.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f56.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f69.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f69.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f74.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000f74.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000fc6.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene1_data/e00/d00/e0000fc6.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000005e.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000005e.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000069.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000069.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000084.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000084.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00000fb.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00000fb.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001c0.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001c0.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001d3.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001d3.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001ee.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00001ee.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000200.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000200.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000020a.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000020a.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000244.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000244.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000292.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000292.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000029f.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000029f.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00002a8.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00002a8.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00002c4.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00002c4.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003aa.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003aa.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003cf.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003cf.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003d9.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003d9.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003e8.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00003e8.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000404.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000404.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000041e.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000041e.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000452.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000452.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000046d.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000046d.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000474.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000474.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000048d.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000048d.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000529.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000529.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000530.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000530.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000573.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000573.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00005af.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00005af.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00005d6.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00005d6.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000060f.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000060f.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000632.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000632.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00006bd.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00006bd.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00006cf.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00006cf.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000762.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000762.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007a0.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007a0.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007b9.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007b9.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007db.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00007db.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000822.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000822.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000898.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000898.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000899.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000899.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000089a.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000089a.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000089f.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000089f.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00008af.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00008af.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000091e.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000091e.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000931.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000931.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000094c.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e000094c.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000977.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000977.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009b4.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009b4.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009c2.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009c2.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009f0.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e00009f0.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000a36.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000a36.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000a89.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000a89.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000add.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000add.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ae5.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ae5.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000b0a.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000b0a.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c1d.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c1d.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c38.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c38.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c90.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000c90.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ca2.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ca2.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ce3.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000ce3.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d04.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d04.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d14.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d14.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d67.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d67.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d6e.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d6e.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d80.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d80.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d9a.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000d9a.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000db8.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000db8.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000dbc.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000dbc.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e17.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e17.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e2e.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e2e.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e54.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e54.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e7c.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000e7c.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000eea.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000eea.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000fa5.au" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Audio/Cutscene2_data/e00/d00/e0000fa5.au.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/cutscene-3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-3-train-robbing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-3-train-robbing.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SubtitleController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SubtitleController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-2-train-alignment.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scenes/game-2-train-alignment.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainChase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainChase.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -302,13 +26,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="35142" />
+          <entry key="cs" value="35630" />
           <entry key="md" value="758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="35142" />
+          <entry key="C#" value="35630" />
           <entry key="PLAIN_TEXT" value="758" />
         </counts>
       </usages-collector>
@@ -381,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="482">
-              <caret line="251" column="32" lean-forward="true" selection-start-line="251" selection-start-column="32" selection-end-line="251" selection-end-column="32" />
+              <caret line="251" column="32" selection-start-line="251" selection-start-column="32" selection-end-line="251" selection-end-column="32" />
               <folding>
                 <marker date="1543557860833" expanded="false" signature="6:80" ph="..." />
                 <marker date="1543557860833" expanded="true" signature="99:6979" ph="{...}" />
@@ -430,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Text/Story.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="130" column="67" selection-start-line="130" selection-start-column="10" selection-end-line="130" selection-end-column="67" />
+            <state relative-caret-position="285">
+              <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -513,25 +237,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainChase.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+            <state relative-caret-position="788">
+              <caret line="124" column="9" lean-forward="true" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
               <folding>
-                <marker date="1542627877291" expanded="false" signature="6:113" ph="..." />
-                <marker date="1542627877291" expanded="true" signature="162:184" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="242:1576" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="556:645" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="592:641" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="724:1146" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="885:1062" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="925:1057" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="992:1051" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="1171:1314" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="1277:1310" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="1343:1460" ph="{...}" />
-                <marker date="1542627877291" expanded="true" signature="1489:1573" ph="{...}" />
+                <marker date="1543572105029" expanded="false" signature="6:113" ph="..." />
+                <marker date="1543572105029" expanded="true" signature="132:2287" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="162:184" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="242:2285" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="767:856" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="803:852" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="935:1357" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="1096:1273" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="1136:1268" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="1203:1262" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="1382:1706" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="1488:1521" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="1586:1702" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="1735:1852" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="1881:1965" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="1999:2052" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="2093:2135" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="2158:2223" ph="{...}" />
+                <marker date="1543572105029" expanded="true" signature="2245:2282" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -626,7 +356,6 @@
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerPlanetHunt.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetRotation.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCutscene1.cs" />
-        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainChase.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PersonController2d.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Text/Story.md" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerMenu.cs" />
@@ -635,6 +364,7 @@
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/EnemyController2d.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/PlayerController2d.cs" />
         <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs" />
+        <option value="$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainChase.cs" />
       </list>
     </option>
   </component>
@@ -740,12 +470,12 @@
       <updated>1541158077875</updated>
       <workItem from="1541158081696" duration="78550000" />
       <workItem from="1542629191754" duration="6362000" />
-      <workItem from="1543475104161" duration="15108000" />
+      <workItem from="1543475104161" duration="18610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100020000" />
+    <option name="totallyTimeSpent" value="103522000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1015,28 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainChase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <marker date="1542627877291" expanded="false" signature="6:113" ph="..." />
-            <marker date="1542627877291" expanded="true" signature="162:184" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="242:1576" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="556:645" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="592:641" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="724:1146" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="885:1062" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="925:1057" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="992:1051" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="1171:1314" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="1277:1310" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="1343:1460" ph="{...}" />
-            <marker date="1542627877291" expanded="true" signature="1489:1573" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/PlanetRotation.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1103,13 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Text/Story.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="130" column="67" selection-start-line="130" selection-start-column="10" selection-end-line="130" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerCutscene1.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1157,7 +858,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainRobbing.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
-          <caret line="251" column="32" lean-forward="true" selection-start-line="251" selection-start-column="32" selection-end-line="251" selection-end-column="32" />
+          <caret line="251" column="32" selection-start-line="251" selection-start-column="32" selection-end-line="251" selection-end-column="32" />
           <folding>
             <marker date="1543557860833" expanded="false" signature="6:80" ph="..." />
             <marker date="1543557860833" expanded="true" signature="99:6979" ph="{...}" />
@@ -1194,6 +895,41 @@
             <marker date="1543557860833" expanded="true" signature="6464:6596" ph="{...}" />
             <marker date="1543557860833" expanded="true" signature="6654:6786" ph="{...}" />
             <marker date="1543557860833" expanded="true" signature="6845:6970" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Text/Story.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ghg2018/Scripts/SceneControllerTrainChase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="124" column="9" lean-forward="true" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+          <folding>
+            <marker date="1543572105029" expanded="false" signature="6:113" ph="..." />
+            <marker date="1543572105029" expanded="true" signature="132:2287" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="162:184" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="242:2285" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="767:856" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="803:852" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="935:1357" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="1096:1273" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="1136:1268" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="1203:1262" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="1382:1706" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="1488:1521" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="1586:1702" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="1735:1852" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="1881:1965" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="1999:2052" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="2093:2135" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="2158:2223" ph="{...}" />
+            <marker date="1543572105029" expanded="true" signature="2245:2282" ph="{...}" />
           </folding>
         </state>
       </provider>

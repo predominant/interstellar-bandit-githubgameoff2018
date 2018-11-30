@@ -28,6 +28,20 @@ namespace ghg2018
 		[SerializeField]
 		private GameObject _alignArea;
 
+		[SerializeField]
+		private GameObject _instructionsPanel;
+
+		[SerializeField]
+		private AudioSource _audioSource;
+
+		[SerializeField]
+		private AudioClip _startClip;
+
+		private bool _startClipPlayed = false;
+
+		[SerializeField]
+		private GameObject _failedPanel;
+
 		public bool Aligned
 		{
 			get { return false; }
@@ -70,6 +84,14 @@ namespace ghg2018
 			{
 				this.SwitchMode();
 			}
+
+			if (Time.timeSinceLevelLoad >= 3f && !this._startClipPlayed)
+			{
+				this._startClipPlayed = true;
+				this._audioSource.clip = _startClip;
+				this._audioSource.Play();
+
+			}
 		}
 
 		private void SwitchMode()
@@ -83,6 +105,26 @@ namespace ghg2018
 		{
 			Debug.Log("Boarding train");
 			SceneManager.LoadScene(this._nextScene);
+		}
+
+		public void HideInstructions()
+		{
+			this._instructionsPanel.SetActive(false);
+		}
+
+		public void ChangeScene(string scene)
+		{
+			SceneManager.LoadScene(scene);
+		}
+
+		public void Retry()
+		{
+			this.ChangeScene(SceneManager.GetActiveScene().name);
+		}
+
+		public void Quit()
+		{
+			this.ChangeScene("menu");
 		}
 	}
 }

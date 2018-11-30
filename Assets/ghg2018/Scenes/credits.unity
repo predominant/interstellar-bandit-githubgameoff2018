@@ -10882,8 +10882,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: "Graham Weldon:\n      Development\n      Artwork\n\nDan Wright:\n      Story
     / Script\n\nJenni Nexus: @Jenninexus\n      Voice Actor (Ship)\n\nChristopher
-    Main: @themainstark\n      Voice Actor (Captain)\n\nSomeone:\n      Voice Actor
-    (Narrator)"
+    Main: @themainstark\n      Voice Actor (Captain)\n\nShade Moon: @MartianGames\n
+    \     Voice Actor (Narrator)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -10951,10 +10951,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 768161407}
-    characterCount: 231
+    characterCount: 248
     spriteCount: 0
-    spaceCount: 64
-    wordCount: 24
+    spaceCount: 66
+    wordCount: 26
     linkCount: 0
     lineCount: 15
     pageCount: 1
