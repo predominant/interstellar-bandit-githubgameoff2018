@@ -38,13 +38,13 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18256211, g: 0.22827399, b: 0.30719987, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 11
-  m_GIWorkflowMode: 0
+  m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -38281,6 +38281,8 @@ MonoBehaviour:
   - {fileID: 63965389}
   - {fileID: 1421263419}
   - {fileID: 689742390}
+  _sceneController: {fileID: 2024121272}
+  _failedPanel: {fileID: 1093116526}
 --- !u!65 &1528932132
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53484,7 +53486,7 @@ MonoBehaviour:
   _instructionsPanel: {fileID: 881348924}
   _audioSource: {fileID: 775257172}
   _startClip: {fileID: 8300000, guid: 58918cfa2feca14419d20ffe89e01f73, type: 3}
-  _failedPanel: {fileID: 0}
+  _failedPanel: {fileID: 1093116526}
   Mode: 0
 --- !u!4 &2024121273
 Transform:

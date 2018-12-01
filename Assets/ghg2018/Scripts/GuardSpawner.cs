@@ -42,10 +42,12 @@ namespace ghg2018
 
 		private Vector3 RandomGuardPos()
 		{
+			var refPos = this._guardParent.position;
+			refPos.x = this.transform.position.x;
 			var offset = Random.Range(
 				Mathf.Abs(this._spawnRange) * -1f,
 				Mathf.Abs(this._spawnRange));
-			return this._guardParent.position + new Vector3(offset, 0f, 0f);
+			return refPos + new Vector3(offset, 0f, 0f);
 		}
 	}
 }

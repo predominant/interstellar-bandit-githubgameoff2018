@@ -26,7 +26,7 @@ namespace ghg2018
         [SerializeField]
         private float Speed = 1f;
 
-        [HideInInspector]
+        //[HideInInspector]
         public float TrackPosition = 0f;
 
         [SerializeField]
@@ -127,7 +127,7 @@ namespace ghg2018
             }
         }
         
-        private void Update()
+        protected virtual void Update()
         {
             //this.transform.position = this._trainRail.PositionByRatio(this.TrackPosition);
             this.transform.position = this._trainRail.PositionByDistance(this.TrackPosition);

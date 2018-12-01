@@ -11387,7 +11387,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playerController: {fileID: 1522889765}
-  _sceneDuration: 20
+  _sceneDuration: 300
   _timerText: {fileID: 1562985976}
   _haulText: {fileID: 1045354478}
   _cratePickupMessagePanel: {fileID: 556231299}
@@ -19579,19 +19579,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _health: 10
-  Controllable: 1
-  _walkSpeed: 3
   _shotDelay: 0.2
-  _boundsXMax: 84
-  _boundsXMin: -13.1
   _bulletPrefab: {fileID: 1929371944924328, guid: bf98180d0bbffa946bc196574e0135e7,
     type: 2}
-  _bulletLifetime: 0.5
+  _bulletLifetime: 0.65
   _bulletForce: 50
   _bulletSpawnPositionRight: {fileID: 1807428072}
   _bulletSpawnPositionLeft: {fileID: 267331048}
   _shootAudioSource: {fileID: 1522889768}
-  _healthBar: {fileID: 0}
+  Controllable: 1
+  _healthBar: {fileID: 117316977}
+  _walkSpeed: 3
+  _boundsXMax: 84
+  _boundsXMin: -13.1
 --- !u!136 &1522889766
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -21119,7 +21119,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4241039532192442, guid: 0800a23bb9bb25844884180e9f1dd4e2, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 7.92
+      value: 71.82
       objectReference: {fileID: 0}
     - target: {fileID: 4241039532192442, guid: 0800a23bb9bb25844884180e9f1dd4e2, type: 2}
       propertyPath: m_LocalPosition.y

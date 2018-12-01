@@ -29,12 +29,18 @@ namespace ghg2018
 		[SerializeField]
 		private float _walkSpeed = 1.5f;
 
+		private float _scanRange = 4f;
+		private float _scanLostRange = 6f;
+
+		private GameObject _player;
+
 		private new void Awake()
 		{
 			base.Awake();
 			this._animator = this.GetComponent<Animator>();
 			this._startX = this.transform.position.x;
 			this._patrolTargetX = this._startX;
+			this._player = GameObject.Find("Player");
 		}
 
 		private void Update()
@@ -50,15 +56,50 @@ namespace ghg2018
 			switch (this._state)
 			{
 				case EnemyControllerState.Patrol:
-					var targetPos = this.transform.position;
-					targetPos.x = this._patrolTargetX;
-					if ((targetPos - this.transform.position).magnitude > 0.1f)
-						this.transform.Translate((targetPos - this.transform.position).normalized * Time.deltaTime * this._walkSpeed);
+					this.Move();
+					this.CheckForPlayer();
 					break;
 				case EnemyControllerState.Chasing:
-					// TODO: Implement chasing
+					this._patrolTargetX = this._player.transform.position.x;
+					this.Move();
+					this.Shoot();
+					this.CheckLostPlayer();
 					break;
 			}
+		}
+
+		private void Move()
+		{
+			var targetPos = this.transform.position;
+			targetPos.x = this._patrolTargetX;
+			if ((targetPos - this.transform.position).magnitude > 0.1f)
+				this.transform.Translate((targetPos - this.transform.position).normalized * Time.deltaTime * this._walkSpeed);
+		}
+
+		private void CheckForPlayer()
+		{
+			var colliders = Physics.OverlapSphere(this.transform.position, this._scanRange);
+			foreach (var c in colliders)
+			{
+				if (c.gameObject.name == "Player")
+				{
+					this._state = EnemyControllerState.Chasing;
+					return;
+				}
+			}
+		}
+
+		private void CheckLostPlayer()
+		{
+			var colliders = Physics.OverlapSphere(this.transform.position, this._scanLostRange);
+			foreach (var c in colliders)
+			{
+				if (c.gameObject.name == "Player")
+					return;
+			}
+
+			this._patrolTargetX = this.transform.position.x;
+			this._state = EnemyControllerState.Patrol;
 		}
 
 		private bool ShouldRoam()

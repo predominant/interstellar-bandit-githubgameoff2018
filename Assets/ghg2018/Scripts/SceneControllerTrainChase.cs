@@ -126,5 +126,10 @@ namespace ghg2018
 		{
 			this.ChangeScene("menu");
 		}
+
+		public void Fail()
+		{
+			this._failedPanel.SetActive(true);
+		}
 	}
 }

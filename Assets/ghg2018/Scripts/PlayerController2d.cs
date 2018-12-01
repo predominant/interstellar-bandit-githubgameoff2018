@@ -25,37 +25,18 @@ namespace ghg2018
 		public event ExtractionOutOfRange OnExtractionOutOfRange;
 
 		private SceneControllerTrainRobbing _sceneController;
+
+		[SerializeField]
+		private Image _healthBar;
 		
 		[SerializeField]
 		private float _walkSpeed = 1f;
-
-		private float _lastShot = 0f;
-		[SerializeField]
-		private float _shotDelay = 0.2f;
 
 		[SerializeField]
 		private float _boundsXMax = 84f;
 		[SerializeField]
 		private float _boundsXMin = -13.1f;
 
-		[SerializeField]
-		private GameObject _bulletPrefab;
-		[SerializeField]
-		private float _bulletLifetime = 0.5f;
-		[SerializeField]
-		private float _bulletForce = 2f;
-
-		[SerializeField]
-		private Transform _bulletSpawnPositionRight;
-		[SerializeField]
-		private Transform _bulletSpawnPositionLeft;
-
-		[SerializeField]
-		private AudioSource _shootAudioSource;
-
-		[SerializeField]
-		private Image _healthBar;
-		
 		protected new void Awake()
 		{
 			base.Awake();
@@ -132,37 +113,9 @@ namespace ghg2018
 			return g.layer == LayerMask.NameToLayer("Crate");
 		}
 
-		private bool CanShoot()
+		protected override void TakeDamage()
 		{
-			if (Time.time - this._lastShot > this._shotDelay)
-				return true;
-
-			// TODO: Can't shoot while searching cargo?
-			// TODO: Can't shoot while leaving train (end of level)
-			
-			return false;
-		}
-		
-		private void Shoot()
-		{
-			if (!this.CanShoot())
-				return;
-
-			this._shootAudioSource.Play();
-			
-			this._lastShot = Time.time;
-			var pos = (this._facingRight ? this._bulletSpawnPositionRight : this._bulletSpawnPositionLeft).position;
-
-			var bullet = GameObject.Instantiate(
-				this._bulletPrefab,
-				pos,
-				Quaternion.identity);
-			bullet.GetComponent<Rigidbody>().AddForce((this._facingRight ? Vector3.right : Vector3.left) * this._bulletForce);
-			GameObject.Destroy(bullet, this._bulletLifetime);
-		}
-
-		protected new void TakeDamage()
-		{
+			Debug.Log("Player taking damage");
 			base.TakeDamage();
 			this.UpdateHealthUI();
 		}
@@ -170,6 +123,7 @@ namespace ghg2018
 		private void UpdateHealthUI()
 		{
 			var width = (float)this._health / 10f * 100f;
+			Debug.Log("Updating UI for health");
 			this._healthBar.GetComponent<RectTransform>().sizeDelta = new Vector2(width, 10f);
 		}
 		
@@ -177,6 +131,12 @@ namespace ghg2018
 		{
 			this._animator.SetBool("Dead", true);
 			this._sceneController.FailScene();
+		}
+
+		protected override void Shoot()
+		{
+			this._shootAudioSource.pitch = Random.Range(0.6f, 1.0f);
+			base.Shoot();
 		}
 	}
 }

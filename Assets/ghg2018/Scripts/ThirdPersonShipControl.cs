@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Security.AccessControl;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace ghg2018
 {
@@ -27,6 +28,12 @@ namespace ghg2018
 		private GameObject[] _renderer;
 
 		private bool _controllable = true;
+
+		[SerializeField]
+		private SceneControllerTrainChase _sceneController;
+
+		[SerializeField]
+		private GameObject _failedPanel;
 
 		private void Awake()
 		{
@@ -59,10 +66,36 @@ namespace ghg2018
 
 		private void OnCollisionEnter(Collision other)
 		{
+			this.Explode();
+		}
+
+		private void Explode()
+		{
 			this._explosion.SetActive(true);
 			foreach (var o in this._renderer)
 				o.SetActive(false);
 			this._controllable = false;
+			this.Fail();
+		}
+
+		public void Fail()
+		{
+			this._failedPanel.SetActive(true);
+		}
+		
+		public void Retry()
+		{
+			this.ChangeLevel(SceneManager.GetActiveScene().name);
+		}
+
+		public void Quit()
+		{
+			this.ChangeLevel("menu");
+		}
+
+		public void ChangeLevel(string scene)
+		{
+			SceneManager.LoadScene(scene);
 		}
 	}
 }

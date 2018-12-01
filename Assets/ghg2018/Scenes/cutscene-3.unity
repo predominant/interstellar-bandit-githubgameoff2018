@@ -15252,6 +15252,7 @@ GameObject:
   m_Component:
   - component: {fileID: 964210689}
   - component: {fileID: 964210690}
+  - component: {fileID: 964210691}
   m_Layer: 0
   m_Name: Scene Controller
   m_TagString: Untagged
@@ -15291,6 +15292,19 @@ MonoBehaviour:
       loot as possible before alignment is lost.
   _characterText: {fileID: 393414640}
   _text: {fileID: 848781800}
+  _lineLength: 40
+--- !u!114 &964210691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 964210688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4aa661970969c14fb4879333f21619e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _nextSceneTime: 11.5
 --- !u!1001 &975913936
 Prefab:
   m_ObjectHideFlags: 0

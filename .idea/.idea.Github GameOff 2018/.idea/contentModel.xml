@@ -171,6 +171,8 @@
             <e p="SceneControllerCredits.cs" t="Include" />
             <e p="SceneControllerCutscene1.cs" t="Include" />
             <e p="SceneControllerCutscene2.cs" t="Include" />
+            <e p="SceneControllerCutscene3.cs" t="Include" />
+            <e p="SceneControllerCutscene4.cs" t="Include" />
             <e p="SceneControllerIntro.cs" t="Include" />
             <e p="SceneControllerMenu.cs" t="Include" />
             <e p="SceneControllerPlanetHunt.cs" t="Include" />
